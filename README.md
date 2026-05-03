@@ -83,7 +83,11 @@
 - `hall chatbot prompt.md` - 宿舍推荐Chatbot的系统提示词（定义回答结构、输出模块、兜底话术等）
 - `hall recommendation prompt.md` - 宿舍推荐专用提示词（针对推荐场景优化）
 
-**资料用途**：定义Chatbot的行为规范，包括如何调用知识库、如何回答用户问题、如何处理偏好信息、回答结构应该包含哪些模块等。这是Chatbot的"大脑指令"。
+**流程图展示**：
+- `chatbot_flowchart html图.JPG` - Chatbot QA Engine 6步决策流程图（可视化展示）
+- `hall_recommendation_workflow html图.JPG` - Hall Recommendation Agent 6步决策流程图（可视化展示）
+
+**资料用途**：定义Chatbot的行为规范，包括如何调用知识库、如何回答用户问题、如何处理偏好信息、回答结构应该包含哪些模块等。这是Chatbot的"大脑指令"。流程图提供了可视化的决策逻辑展示。
 
 ---
 
