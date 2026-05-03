@@ -1,0 +1,87 @@
+# HKUST Undergraduate Hall Charges & HKUST Hall Room Availability Matrix (宿舍房型可用性矩陣)
+本文档汇总了香港科技大学所有本科生宿舍的住宿费用，按四种学生类型分类。
+费用以港币（HK$）计算，按学年收取。
+> ⚠️ 推薦引擎必讀：此表為房型篩選的唯一依據。
+> 若某組合標記為 ❌，則該宿舍絕對不可推薦給該類學生的該房型需求。
+
+## New Local Undergraduate Students (新入學本地學生)
+
+> hall_id 欄為推薦引擎輸出使用的字符串 ID，必須嚴格採用此 ID。
+
+| hall_id | Hall Name | Single Room | Double Room | Triple Room | Bunk Bed Room |
+|---------|-----------|:-----------:|:-----------:|:-----------:|:-------------:|
+| "1"  | UG Hall I   | ❌ | ✅ $19,460 | ❌ | ❌ |
+| "2"  | UG Hall II  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "3"  | UG Hall III | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "4"  | UG Hall IV  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "5"  | UG Hall V   | ❌ | ❌ | ❌ | ✅ $15,568 |
+| "6"  | UG Hall VI  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "7"  | UG Hall VII | ❌ | ✅ $23,630 | ❌ | ❌ |
+| "8"  | UG Hall VIII| ❌ | ✅ $23,630 | ❌ | ❌ |
+| "9"  | UG Hall IX  | ❌ | ✅ $23,630 | ❌ | ❌ |
+| "10" | UG Hall X   | ❌ | ✅ $25,020 | ❌ | ❌ |
+| "11" | UG Hall XI  | ❌ | ✅ $25,020 | ❌ | ❌ |
+| "12" | UG Hall XII | ❌ | ✅ $25,020 | ❌ | ❌ |
+| "13" | UG Hall XIII| ❌ | ✅ $25,020 | ❌ | ❌ |
+| "JCH"| JCH         | ❌ | ✅ $25,576 | ❌ | ❌ |
+
+**關鍵結論：新入學本地學生 (New Local UG) 不可入住 Single Room，任何宿舍均不提供。**
+
+## Continuing Local Undergraduate Students (在學本地學生)
+
+| hall_id | Hall Name | Single Room | Double Room | Triple Room | Bunk Bed Room |
+|---------|-----------|:-----------:|:-----------:|:-----------:|:-------------:|
+| "1"  | UG Hall I   | ❌ | ✅ $19,460 | ❌ | ❌ |
+| "2"  | UG Hall II  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "3"  | UG Hall III | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "4"  | UG Hall IV  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "5"  | UG Hall V   | ❌ | ❌ | ❌ | ✅ $15,568 |
+| "6"  | UG Hall VI  | ❌ | ✅ $19,460 | ✅ $15,012 | ❌ |
+| "7"  | UG Hall VII | ✅ $34,472 | ✅ $23,630 | ❌ | ❌ |
+| "8"  | UG Hall VIII| ✅ $35,028 | ✅ $23,630 | ❌ | ❌ |
+| "9"  | UG Hall IX  | ✅ $35,028 | ✅ $23,630 | ❌ | ❌ |
+| "10" | UG Hall X   | ✅ $36,974 | ✅ $25,020 | ❌ | ❌ |
+| "11" | UG Hall XI  | ✅ $36,974 | ✅ $25,020 | ❌ | ❌ |
+| "12" | UG Hall XII | ✅ $36,974 | ✅ $25,020 | ❌ | ❌ |
+| "13" | UG Hall XIII| ✅ $36,974 | ✅ $25,020 | ❌ | ❌ |
+| "JCH"| JCH         | ❌ | ✅ $25,576 | ❌ | ❌ |
+
+## New Non-Local Undergraduate Students (新入學非本地學生)
+
+| hall_id | Hall Name | Single Room | Double Room | Triple Room | Bunk Bed Room |
+|---------|-----------|:-----------:|:-----------:|:-----------:|:-------------:|
+| "1"  | UG Hall I   | ❌ | ✅ $25,168 | ❌ | ❌ |
+| "2"  | UG Hall II  | ❌ | ✅ $25,168 | ✅ $19,162 | ❌ |
+| "3"  | UG Hall III | ❌ | ✅ $25,168 | ✅ $19,162 | ❌ |
+| "4"  | UG Hall IV  | ❌ | ✅ $25,168 | ✅ $19,162 | ❌ |
+| "5"  | UG Hall V   | ❌ | ❌ | ❌ | ✅ $20,306 |
+| "6"  | UG Hall VI  | ❌ | ✅ $25,168 | ✅ $19,162 | ❌ |
+| "7"  | UG Hall VII | ❌ | ✅ $30,888 | ❌ | ❌ |
+| "8"  | UG Hall VIII| ❌ | ✅ $30,888 | ❌ | ❌ |
+| "9"  | UG Hall IX  | ❌ | ✅ $30,888 | ❌ | ❌ |
+| "10" | UG Hall X   | ❌ | ✅ $32,604 | ❌ | ❌ |
+| "11" | UG Hall XI  | ❌ | ✅ $32,604 | ❌ | ❌ |
+| "12" | UG Hall XII | ❌ | ✅ $32,604 | ❌ | ❌ |
+| "13" | UG Hall XIII| ❌ | ✅ $32,604 | ❌ | ❌ |
+| "JCH"| JCH         | ❌ | ✅ $33,462 | ❌ | ❌ |
+
+**關鍵結論：新入學非本地學生 (New Non-Local UG) 不可入住 Single Room，任何宿舍均不提供。**
+
+## Continuing Non-Local Undergraduate Students (在學非本地學生)
+
+| hall_id | Hall Name | Single Room | Double Room | Triple Room | Bunk Bed Room |
+|---------|-----------|:-----------:|:-----------:|:-----------:|:-------------:|
+| "1"  | UG Hall I   | ❌ | ✅ $24,464 | ❌ | ❌ |
+| "2"  | UG Hall II  | ❌ | ✅ $24,464 | ✅ $18,626 | ❌ |
+| "3"  | UG Hall III | ❌ | ✅ $24,464 | ✅ $18,626 | ❌ |
+| "4"  | UG Hall IV  | ❌ | ✅ $24,464 | ✅ $18,626 | ❌ |
+| "5"  | UG Hall V   | ❌ | ❌ | ❌ | ✅ $19,738 |
+| "6"  | UG Hall VI  | ❌ | ✅ $24,464 | ✅ $18,626 | ❌ |
+| "7"  | UG Hall VII | ✅ $44,202 | ✅ $30,024 | ❌ | ❌ |
+| "8"  | UG Hall VIII| ✅ $44,480 | ✅ $30,024 | ❌ | ❌ |
+| "9"  | UG Hall IX  | ✅ $44,480 | ✅ $30,024 | ❌ | ❌ |
+| "10" | UG Hall X   | ✅ $46,982 | ✅ $31,692 | ❌ | ❌ |
+| "11" | UG Hall XI  | ✅ $46,982 | ✅ $31,692 | ❌ | ❌ |
+| "12" | UG Hall XII | ✅ $46,982 | ✅ $31,692 | ❌ | ❌ |
+| "13" | UG Hall XIII| ✅ $46,982 | ✅ $31,692 | ❌ | ❌ |
+| "JCH"| JCH         | ❌ | ✅ $32,526 | ❌ | ❌ |

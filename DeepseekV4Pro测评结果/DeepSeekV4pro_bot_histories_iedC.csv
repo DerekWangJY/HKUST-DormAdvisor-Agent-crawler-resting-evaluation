@@ -1,0 +1,222 @@
+﻿email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",用公共厨房得先预约不,"根據知識庫資料，**香港科技大學本科生宿舍內不設公共廚房**，因此不存在預約廚房的使用規則。
+
+各宿舍僅設有**茶水間（Pantry）**，供學生加熱和簡單準備食物，設備包括：
+
+| 宿舍名稱 | 茶水間設備 | 烹飪設施 |
+|----------|------------|----------|
+| Hall I | 水槽、冰箱、微波爐 | ❌ 無 |
+| Hall II | 水槽、飲水機、冰箱、微波爐、電熱水壺 | ❌ 無 |
+| Hall III | 水槽、飲水機、2 部微波爐 | ❌ 無 |
+| Hall IV | 水槽、飲水機、冰箱、微波爐、電熱水壺 | ❌ 無 |
+| Hall V | 水槽、微波爐、電熱水壺 | ❌ 無 |
+| Hall VI | 水槽、飲水機、冰箱、微波爐、電熱水壺 | ❌ 無 |
+| Hall VII | 水槽、飲水機、2 部冰箱、2 部微波爐、電熱水壺 | ❌ 無 |
+| Hall VIII | 水槽、飲水機、冰箱、微波爐 | ❌ 無 |
+| Hall IX | 水槽、飲水機、冰箱、微波爐 | ❌ 無 |
+| JCH | 無獨立茶水間設施 | ❌ 無 |
+
+**重要說明：**
+- 所有宿舍明確標註：**宿舍範圍內不設任何烹飪設施**
+- 茶水間的微波爐僅供**加熱和簡單準備食物**使用，不可用於烹煮
+- 如需煮食，建議使用宿舍外的設施或選擇外賣、食堂用餐
+
+**關於您的其他需求：**
+您提到希望宿舍內有 24 小時開放的自習室和隔音練習房，建議您進一步查詢各宿舍的具體設施配置，或聯絡 Student Housing Office 獲取更詳細資訊。",,,40,20,20,10,10,100,无,无,无
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",各栋宿舍楼离学生活动中心远近差别明显吗,"根據知識庫資料，各棟宿舍樓離校園主要設施（包括體育設施和學生活動區域）的遠近確實有明顯差別：
+
+## 各宿舍地理位置比較
+
+| 宿舍名稱 | 相對位置描述 | 步行至主要設施 |
+|----------|--------------|----------------|
+| Hall I | 最靠近學術大樓和圖書館 | 經連接橋步行約300米可達學術大樓 |
+| Hall II | 位於宿舍區中心位置 | 下樓電梯直達曾肇添體育中心、室內外游泳池、霍英東體育場等設施 |
+| Hall III | 需經電梯和山路 | 從LG5連接橋前往，需坐電梯並走約5分鐘山路 |
+| Hall V | 位於LG7至Hall I山路上，被稱為「宇宙中心」 | 離其他宿舍有一定距離，位置較獨立 |
+| Hall VII | 座落於Seafront餐廳上行山路 | 前往海邊設施方便，距離教學樓與Hall VI相若 |
+| Hall VIII | 位於山腳近海 | 距離教學樓稍遠，步行前往LSK約需15-20分鐘 |
+
+## 重點說明
+
+**Hall II** 的地理位置對於使用體育設施最為便利，電梯下樓即可直達曾肇添體育中心（Tsang Shiu Tim Sports Center）、室內外游泳池、霍英東體育場（Fok Ying Tung Sports Ground）及Seafront餐廳等設施。
+
+**Hall I** 則是最靠近學術大樓和圖書館的宿舍，下雨天前往學術大樓甚至無需帶傘。
+
+**Hall VIII** 雖然海景優美且設施新穎，但距離教學樓相對較遠，步行需時較長。
+
+**Hall V** 位置較為獨立，離其他宿舍有一定距離。
+
+## 針對您的需求
+
+您提到希望宿舍安靜、便利且設施齊全，並需要24小時自習室和隔音練習房：
+
+- **Hall VII** 設有每層自習室及音樂房（配備鋼琴、電子琴、架子鼓等），地理位置適中且相對安靜。
+- **Hall VIII** 配備專為Hall VIII & IX住戶服務的24小時自習室。
+- **Hall II** 位於宿舍區中心，相對安靜，設施較新。
+
+⚠️ **提醒**：宿舍房型由SHRLO系統隨機分配，學生無法自行指定。申請時您僅可選擇最多3個宿舍進行優先排序。建議您根據地理位置、設施需求等因素綜合考慮優先順序。",1. User asked: 用公共厨房得先预约不 | Assistant replied: 根據知識庫資料，**香港科技大學本科生宿舍內不設公共廚房**，因此不存在預約廚房的使用規則。 各宿舍僅設有**茶水間（Pantry）**，供...,,40,20,20,10,10,100,无,无,无
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",各栋宿舍音乐练习室设备配置差别大吗,"根據知識庫資料，目前只有 **Hall VII** 的音樂練習室設備配置有詳細記錄，其他宿舍的相關資訊暫未收錄。以下是已知情況：
+
+## Hall VII 音樂練習室設備
+
+Hall VII 的音樂房位於 7 樓，配備以下設施：
+- 兩架鋼琴
+- 電子琴
+- 架子鼓
+- 話筒
+- 音箱
+- 其他音樂設備
+
+## 其他宿舍情況
+
+很抱歉，目前知識庫中沒有記錄其他宿舍（Hall I–VI、Hall VIII–XIII、JCH）是否設有音樂練習室，以及其設備配置的詳細資訊。因此無法比較各棟宿舍音樂練習室設備配置的差別。
+
+## 給您的建議
+
+考慮到您的優先需求（安靜、便利、設施）以及希望宿舍內有 **24 小時開放的自習室和隔音練習房**：
+
+- **Hall VII** 設有音樂房和每層自習室，且環境相對安靜（無 Hall 莊活動），符合您對安靜和設施的需求
+- 但自習室和音樂房的 **具體開放時間**（是否 24 小時）在知識庫中未明確說明，建議您直接向 **Student Housing Office** 查詢確認
+
+如需了解其他宿舍的音樂練習室配置，建議聯繫宿舍辦公室或參考各宿舍的官方設施介紹。","1. User asked: 用公共厨房得先预约不 | Assistant replied: 根據知識庫資料，**香港科技大學本科生宿舍內不設公共廚房**，因此不存在預約廚房的使用規則。 各宿舍僅設有**茶水間（Pantry）**，供...
+2. User asked: 各栋宿舍楼离学生活动中心远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍樓離校園主要設施（包括體育設施和學生活動區域）的遠近確實有明顯差別： ## 各宿舍地理位置比較 ## 重點說明 **...",,40,20,20,10,10,100,无,无,其他宿舍音乐练习室配置数据
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",祈祷室每天开放到几点,"根據知識庫資料，目前只有 **Hall IX** 設有祈祷室（Reflection Room），相關資訊如下：
+
+## 祈祷室開放時間
+
+| 項目 | 詳情 |
+|------|------|
+| 位置 | Hall IX UG/F 層 |
+| 開放時間 | **24 小時開放** |
+| 開放日期 | 2025 年 8 月 28 日至 2026 年 6 月 2 日 |
+| 適用對象 | 所有信仰的宿生 |
+| 使用要求 | 需填寫登記表並電郵至 ughix@ust.hk，3 個工作天內會收到確認電郵 |
+
+## 重要提醒
+
+- 祈祷室供所有信仰的學生進行祈祷和冥想使用
+- 使用前必須完成登記手續，獲得確認後方可使用
+- 目前知識庫中僅收錄 Hall IX 的祈祷室資訊，其他宿舍是否設有类似設施暫無記錄
+
+如果您對祈祷室有其他查詢，或想了解其他宿舍的設施配置，歡迎隨時詢問！","1. User asked: 用公共厨房得先预约不 | Assistant replied: 根據知識庫資料，**香港科技大學本科生宿舍內不設公共廚房**，因此不存在預約廚房的使用規則。 各宿舍僅設有**茶水間（Pantry）**，供...
+2. User asked: 各栋宿舍楼离学生活动中心远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍樓離校園主要設施（包括體育設施和學生活動區域）的遠近確實有明顯差別： ## 各宿舍地理位置比較 ## 重點說明 **...
+3. User asked: 各栋宿舍音乐练习室设备配置差别大吗 | Assistant replied: 根據知識庫資料，目前只有 **Hall VII** 的音樂練習室設備配置有詳細記錄，其他宿舍的相關資訊暫未收錄。以下是已知情況： ## Ha...","The student is likely a musician or regular practitioner who values access to music practice rooms, and prefers a hall with well-equipped facilities for this purpose.",40,20,20,10,10,100,无,无,无
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",各栋宿舍房间隔音效果差别明显吗,"抱歉，目前知識庫中沒有關於各棟宿舍房間隔音效果的具體資料。宿舍房間的隔音設計、声学性能等詳細資訊並未收錄在現有資料庫中。
+
+由於您特別重視安靜環境和隔音練習房（從之前的對話了解到您可能需要音樂練習空間），建議您：
+
+1. **直接聯繫 Student Housing Office** 查詢各宿舍的隔音設計詳情
+2. **參觀宿舍開放日** 時親身感受房間的隔音效果
+3. **向現住宿生查詢** 實際居住體驗，特別是關於噪音控制的反饋
+
+根據之前查詢的資料，目前只有 **Hall VII** 的音樂練習室設備配置有詳細記錄。如果您需要隔音練習房，可以優先了解 Hall VII 的相關設施情況。
+
+⚠️ **提醒**：宿舍房型由 SHRLO 系統隨機分配，學生無法指定房型。作為新入學本地生，您有機會被分配到 Double Room，但無法保證分配到特定宿舍。建議您在申請時將重視設施的宿舍列為優先選擇，並直接向宿舍辦公室查詢隔音相關的詳細資訊。","1. User asked: 各栋宿舍楼离学生活动中心远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍樓離校園主要設施（包括體育設施和學生活動區域）的遠近確實有明顯差別： ## 各宿舍地理位置比較 ## 重點說明 **...
+2. User asked: 各栋宿舍音乐练习室设备配置差别大吗 | Assistant replied: 根據知識庫資料，目前只有 **Hall VII** 的音樂練習室設備配置有詳細記錄，其他宿舍的相關資訊暫未收錄。以下是已知情況： ## Ha...
+3. User asked: 祈祷室每天开放到几点 | Assistant replied: 根據知識庫資料，目前只有 **Hall IX** 設有祈祷室（Reflection Room），相關資訊如下： ## 祈祷室開放時間 ##...","The student is likely a musician or regular practitioner who values access to music practice rooms, and prefers a hall with well-equipped facilities for this purpose.",40,20,20,10,10,100,无,无,各宿舍隔音效果数据
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",双人间面积各栋楼差别大不大,"根據知識庫資料，目前**沒有各宿舍雙人間的實際房間面積（平方米或平方英尺）數據**，僅有床墊尺寸記錄。以下是各宿舍 Double Room 的床墊尺寸比較，可作為房間大小的間接參考：
+
+| 宿舍名稱 | 床墊尺寸 (長 x 寬 x 高 cm) |
+|----------|---------------------------|
+| Hall I | 190.5 x 78.7 x 10.2 |
+| Hall II | 193.0 x 73.7 x 10.2 |
+| Hall III | 190.5 x 76.2 x 10.2 |
+| Hall IV | 190.5 x 76.2 x 10.2 |
+| Hall VI | 198.1 x 76.2 x 10.2 |
+| Hall VII | 209.6 x 76.2 x 10.2 |
+| Hall VIII | 203.2 x 76.2 x 10.2 |
+| Hall IX | 203.2 x 76.2 x 10.2 |
+| Hall X | 204.0 x 77.5 x 10.2 |
+| Hall XI | 204.0 x 77.5 x 10.2 |
+| Hall XII | 204.0 x 77.5 x 10.2 |
+| Hall XIII | 204.0 x 77.5 x 10.2 |
+| JCH | 203.2 x 86.4 x 10.2 |
+
+從床墊尺寸可見：
+- **長度差異**：Hall VII 最長（209.6 cm），Hall I、III、IV 較短（約 190.5 cm），相差約 19 cm
+- **寬度差異**：JCH 最寬（86.4 cm），Hall II 最窄（73.7 cm），相差約 12.7 cm
+- **新宿舍（Hall X–XIII）**：床墊尺寸統一為 204.0 x 77.5 cm，較為一致
+
+⚠️ **重要提醒**：床墊尺寸不等於房間面積，實際房間大小還取決於房間佈局、書桌、衣櫃等設施配置。如需了解具體房間面積，建議直接聯絡 Student Housing Office 查詢或參考宿舍官方網頁的虛擬導覽。
+
+以您的預算（HK$ 20,000–26,000）作為新入學本地生，所有宿舍的 Double Room 費用均在預算範圍內（$19,460–$25,576）。","1. User asked: 各栋宿舍音乐练习室设备配置差别大吗 | Assistant replied: 根據知識庫資料，目前只有 **Hall VII** 的音樂練習室設備配置有詳細記錄，其他宿舍的相關資訊暫未收錄。以下是已知情況： ## Ha...
+2. User asked: 祈祷室每天开放到几点 | Assistant replied: 根據知識庫資料，目前只有 **Hall IX** 設有祈祷室（Reflection Room），相關資訊如下： ## 祈祷室開放時間 ##...
+3. User asked: 各栋宿舍房间隔音效果差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍房間隔音效果的具體資料。宿舍房間的隔音設計、声学性能等詳細資訊並未收錄在現有資料庫中。 由於您特別重視安靜...","The student is likely a musician or regular practitioner who values access to music practice rooms, and prefers a hall with well-equipped facilities for this purpose.",40,20,20,10,10,100,无,无,各宿舍双人间实际面积(平方米)
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",各栋宿舍音乐练习室预约难度差别大吗,"抱歉，目前知識庫中沒有關於各棟宿舍音樂練習室（或隔音練習房）的預約難度、開放時間或相關使用規則的資料。
+
+現有資料庫並未收錄以下資訊：
+- 哪些宿舍設有音樂練習室或隔音練習房
+- 練習室的預約方式、預約難度或使用規則
+- 各棟宿舍在練習室資源上的差異
+
+由於您特別重視音樂練習空間，建議您：
+1. **直接聯繫 Student Housing Office** 查詢哪些宿舍設有音樂練習室及其使用安排
+2. **向目標宿舍的宿舍辦公室（Hall Office）** 詢問練習室的預約情況和使用規則
+3. **諮詢現住宿舍的學長學姐**，了解實際使用體驗和預約難度
+
+⚠️ **提醒**：宿舍申請截止日期及相關安排請留意 SHRLO 官方電郵通知，以免遺漏重要資訊。
+
+如果您需要了解其他宿舍設施（如洗衣房、公共休息室、茶水間等）的開放時間或使用規則，歡迎告訴我，我可以為您查詢知識庫中的相關資料。","1. User asked: 祈祷室每天开放到几点 | Assistant replied: 根據知識庫資料，目前只有 **Hall IX** 設有祈祷室（Reflection Room），相關資訊如下： ## 祈祷室開放時間 ##...
+2. User asked: 各栋宿舍房间隔音效果差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍房間隔音效果的具體資料。宿舍房間的隔音設計、声学性能等詳細資訊並未收錄在現有資料庫中。 由於您特別重視安靜...
+3. User asked: 双人间面积各栋楼差别大不大 | Assistant replied: 根據知識庫資料，目前**沒有各宿舍雙人間的實際房間面積（平方米或平方英尺）數據**，僅有床墊尺寸記錄。以下是各宿舍 Double Room...","The student is a practicing Muslim who needs daily access to a prayer room and is concerned about noise and room size for studying or practising music, suggesting a need for quiet, functional living space.",40,20,20,10,10,100,无,无,音乐练习室预约难度/开放时间/使用规则
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",宿舍活动一学期大概有多少场 活动通知一般提前多久发 请假需要提前申请吗,"根據知識庫資料，以下是關於宿舍活動、通知及請假的資訊：
+
+### 宿舍活動類型與頻率
+
+宿舍活動並非以固定的「學期場數」來計算，而是由不同組織全年持續舉辦，類型非常豐富：
+
+*   **樓層聚會 (Floor Gathering)**：由宿舍教育團隊（Hall Education Team）定期舉辦，讓同樓層居民交流想法、討論問題及進行社交互動。
+*   **教育工作坊 (Educational Workshop)**：由樓層導師（Hall Tutors）及學生領袖組織，讓有共同興趣的居民互相學習。
+*   **住宿體驗計劃 (Residential Experiential Program)**：由學生宿舍及生活事務處（SHRLO）為所有本科生及研究生組織，旨在促進宿舍間互動、文化交流及體育精神。過往活動包括「港式奶茶課程」、「大自然正念：森林浴體驗」及「初學者長曲棍球」等。
+*   **宿舍迎新 (Hall Orientation)**：讓居民在輕鬆環境下認識彼此並共進晚餐。
+*   **學生組織活動**：各宿舍設有學生會（如 House Students' Associations）或組織團隊（如 Hall I-VI 的 Connection Team/Leadership Team，Hall VIII-IX 的 Organizing Teams），負責籌辦各類宿舍活動。
+
+由於活動由多個團體（宿舍舍監、導師、學生會、SHRLO）分別舉辦，**知識庫中並未列出每學期的具體活動總場數**。
+
+### 活動通知與请假
+
+*   **活動通知時間**：知識庫中**沒有提及**活動通知一般會提前多久發出。建議您入住後留意宿舍電郵、樓層公告板或學生組織的社交媒體專頁以獲取最新資訊。
+*   **请假申請**：知識庫中**沒有關於參加宿舍活動是否需要提前請假或申請的具體規定**。
+    *   一般而言，宿舍迎新或樓層聚會等強制性或高度鼓勵參與的活動，若無法出席可能需要向樓層導師說明。
+    *   其他自願性質的工作坊或體驗計劃，通常只需按活動要求報名即可，若報名後無法出席，建議提早通知主辦單位以便安排候補。
+
+⚠️ **提醒**：具體的活動日程、通知方式及出席要求，會因宿舍及學年而異。建議您入住宿舍後，主動聯絡所屬宿舍的**樓層導師（Hall Tutor）**或查閱宿舍手冊，以獲取最準確的活動資訊及請假指引。","1. User asked: 各栋宿舍房间隔音效果差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍房間隔音效果的具體資料。宿舍房間的隔音設計、声学性能等詳細資訊並未收錄在現有資料庫中。 由於您特別重視安靜...
+2. User asked: 双人间面积各栋楼差别大不大 | Assistant replied: 根據知識庫資料，目前**沒有各宿舍雙人間的實際房間面積（平方米或平方英尺）數據**，僅有床墊尺寸記錄。以下是各宿舍 Double Room...
+3. User asked: 各栋宿舍音乐练习室预约难度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍音樂練習室（或隔音練習房）的預約難度、開放時間或相關使用規則的資料。 現有資料庫並未收錄以下資訊： - 哪...","The student is a practicing Muslim who needs daily access to a prayer room and is concerned about noise and room size for studying or practising music, suggesting a need for quiet, functional living space.",40,20,20,10,10,100,无,无,每学期活动总场数/通知提前期/请假规则
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",住宿费包不包水电 超额了怎么算钱 押金扣款标准是什么,"抱歉，目前知識庫中沒有關於以下方面的具體資料：
+
+- **住宿費是否包含水電費**
+- **水電超額後的收費標準**
+- **押金金額及扣款標準**
+
+建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢這些詳細資訊：
+
+- **電郵**：shro@ust.hk
+- **辦公室地點**：Student Housing and Residential Life Office
+- **辦公時間**：星期一至五（公眾假期除外）
+
+⚠️ **提醒**：宿舍費用、水電政策及押金規定可能會隨學年調整，請以 SHRLO 官方發出的最新通知為準。申請宿舍時，相關費用詳情亦會於官方電郵中列明，請留意查收。
+
+如果您有其他關於宿舍房型、設施或申請政策的問題，我很樂意為您查詢知識庫資料。","1. User asked: 双人间面积各栋楼差别大不大 | Assistant replied: 根據知識庫資料，目前**沒有各宿舍雙人間的實際房間面積（平方米或平方英尺）數據**，僅有床墊尺寸記錄。以下是各宿舍 Double Room...
+2. User asked: 各栋宿舍音乐练习室预约难度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍音樂練習室（或隔音練習房）的預約難度、開放時間或相關使用規則的資料。 現有資料庫並未收錄以下資訊： - 哪...
+3. User asked: 宿舍活动一学期大概有多少场 活动通知一般提前多久发 请假需要提前申请吗 | Assistant replied: 根據知識庫資料，以下是關於宿舍活動、通知及請假的資訊： ### 宿舍活動類型與頻率 宿舍活動並非以固定的「學期場數」來計算，而是由不同組織全...","The student is a practicing Muslim who needs daily access to a prayer room and is concerned about noise and room size for studying or practising music, suggesting a need for quiet, functional living space.",40,20,20,10,10,100,无,无,水电费包含政策/超额计费/押金扣款标准
+iedC@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Quiet', 'Convenience', 'Facilities'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有24小时开放的自习室和隔音练习房'}",宿舍楼晚上几点锁大门 外来人员登记要填什么表 紧急情况疏散路线图贴在哪,"根據知識庫資料，以下是關於宿舍門禁、訪客登記及緊急疏散的資訊：
+
+### 宿舍門禁時間
+所有本科生宿舍（Hall I 至 Hall IX）**均沒有門禁時間，不會鎖大門**。
+- 住戶在任何時間均可憑學生卡拍卡進入宿舍，操作方式與圖書館閘門類似。
+- 這意味著您深夜歸來無需擔心無法進入宿舍。
+
+### 外來人員登記
+抱歉，目前知識庫中**沒有關於外來人員登記具體需要填寫什麼表格**的詳細資料。
+- 一般宿舍設有訪客通行證（Guest Pass）制度，但具體登記表格名稱、填寫內容及手續，建議您直接向宿舍管理處或 Student Housing Office 查詢。
+
+### 緊急疏散路線圖
+抱歉，目前知識庫中**沒有關於緊急疏散路線圖張貼位置**的具體資料。
+- 通常緊急疏散路線圖會張貼在宿舍各樓層的電梯口、樓梯間或大堂當眼處，建議您入住後留意這些位置，或向宿舍管理人員查詢。
+
+⚠️ **提醒**：
+- 雖然宿舍沒有門禁，但為了安全起見，建議您深夜歸來時結伴同行。
+- 關於訪客登記和緊急疏散的詳細資訊，建議您入住時向宿舍管理處查詢，或留意宿舍大堂的公告。","1. User asked: 各栋宿舍音乐练习室预约难度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有關於各棟宿舍音樂練習室（或隔音練習房）的預約難度、開放時間或相關使用規則的資料。 現有資料庫並未收錄以下資訊： - 哪...
+2. User asked: 宿舍活动一学期大概有多少场 活动通知一般提前多久发 请假需要提前申请吗 | Assistant replied: 根據知識庫資料，以下是關於宿舍活動、通知及請假的資訊： ### 宿舍活動類型與頻率 宿舍活動並非以固定的「學期場數」來計算，而是由不同組織全...
+3. User asked: 住宿费包不包水电 超额了怎么算钱 押金扣款标准是什么 | Assistant replied: 抱歉，目前知識庫中沒有關於以下方面的具體資料： - **住宿費是否包含水電費** - **水電超額後的收費標準** - **押金金額及扣款標...","The student repeatedly asks about music practice rooms and their booking difficulty, indicating a strong, unstated need for reliable access to practice spaces, likely as a regular musician who prioritises this facility over other dorm features.",30,20,10,10,10,80,"严重:KB明确疏散路线贴于每层电梯大堂(lift lobby)-hall_life_guide L30/L39,Bot声称无信息(检索失败-10)。轻微:访客登记KB有Guest Pass在线申请流程未展开","{""事实准确性"": {""核心数据准确性"": {""得分"": ""15/25"", ""扣分原因"": ""严重-10:疏散路线图位置KB明确为每层电梯大堂(lift lobby)-hall_life_guide L30/L39,Bot声称无资料,检索失败""}, ""无幻觉与虚假信息"": {""得分"": ""10/10""}, ""政策规则表述准确性"": {""得分"": ""5/5""}}, ""个性化适配能力"": {""用户身份与预算适配"": {""得分"": ""12/12""}, ""用户偏好适配"": {""得分"": ""5/5""}, ""历史对话上下文承接"": {""得分"": ""3/3""}}, ""问题解决与任务完成度"": {""提问点全覆盖"": {""得分"": ""8/15"", ""扣分原因"": ""3子问题:门禁时间正确5/5;访客登记部分回答(提Guest Pass但未给在线流程)3/5;疏散路线图检索失败0/5""}, ""核心诉求解决效果"": {""得分"": ""2/5"", ""扣分原因"": ""疏散路线核心诉求未满足""}}, ""合规性与边界控制"": {""无关问题拒绝能力"": {""得分"": ""6/6""}, ""合规内容管控"": {""得分"": ""4/4""}}, ""回答规范性与可用性"": {""Markdown格式规范性"": {""得分"": ""6/6""}, ""结构清晰度与可读性"": {""得分"": ""4/4""}}}",访客登记具体表格(系在线系统非纸质)、疏散路线图张贴位置(KB已有-检索失败)

@@ -1,0 +1,236 @@
+email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",台风天宿舍有什么安排,"根據宿舍生活指南，颱風天宿舍有以下安排和注意事項：
+
+## 颱風信號懸掛時的安排
+
+**8號或以上颱風信號：**
+- 所有學生必須**留在室內**，不可外出
+- 校園所有正常活動停止
+- 宿舍訪客登記將暫停，已登記的訪客需離開宿舍返回住所
+- 校園餐飲服務可能暫停或調整，建議在信號懸掛前**儲備食物和必需品**
+
+**黑色暴雨信號：**
+- 同樣必須**留在室內**，不可離開建築物
+- 待信號降低且確認安全後方可外出
+
+## 安全準備措施
+
+- 確保所有**窗戶完全關閉**
+- 將陽台或窗邊的鬆散物品固定好或移至室內
+- 提前熟悉樓層的**火警逃生路線**（張貼於電梯大堂的樓層平面圖）
+- 了解緊急集合點位置
+
+## 重要提醒
+
+- 颱風期間校園餐飲服務可能受影響，請提前準備足夠的食物和飲用水
+- 課程及考試安排請留意教務處（ARO）網頁公告
+- 校園服務安排可查詢校園服務處（CSO）網頁
+- 保持手機充電，留意香港天文台最新天氣資訊
+
+作為新入學的非本地生，建議您提前了解宿舍的緊急聯絡方式，並與樓層導師（Floor Tutor）保持聯繫。颱風期間宿舍辦公室會提供必要的協助和最新通知。",,,40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",宿生导师怎么联系,"宿生導師（Hall Tutor）的聯繫方式取決於您被分配到哪一棟宿舍。每棟宿舍的樓層導師負責不同樓層，您可以通過以下方式聯繫：
+
+## 一般聯繫方式
+
+1. **通過宿舍辦公室電郵查詢** - 每棟宿舍設有專用查詢電郵
+2. **直接聯繫您所屬樓層的 Hall Tutor** - 入住後會獲知您的樓層及對應導師
+3. **聯繫宿舍生活主任（Residential Life Officer）** - 協助處理宿舍生活相關事宜
+
+## 各宿舍聯絡資訊
+
+| 宿舍名稱 | 宿舍查詢電郵 | 宿舍生活主任 |
+|----------|-------------|-------------|
+| Hall I | ughi@ust.hk | Ms Kace Lai (kacelai@ust.hk) |
+| Hall II | ughii@ust.hk | Miss Wience NG (wienceng@ust.hk) |
+| Hall III | ughiii@ust.hk | Mr Eddy TSANG (eddythtsang@ust.hk) |
+| Hall IV | ughiv@ust.hk | Ms Sherice WONG (sherice@ust.hk) |
+| Hall V | ughv@ust.hk | Mr Hugo KAN (hugokan@ust.hk) |
+| Hall VI | ughvi@ust.hk | Ms Sherice WONG (sherice@ust.hk) |
+| Hall VII | ughvii@ust.hk | Miss Wience NG (wienceng@ust.hk) |
+| Hall VIII | ughviii@ust.hk | Ms Kirsten SHEN (kirstensck@ust.hk) |
+| Hall IX | ughix@ust.hk | Ms Kirsten SHEN (kristensck@ust.hk) |
+| JCH | jch@ust.hk | Ms Dora KOO (dorakoo@ust.hk) |
+
+## 樓層導師（Hall Tutor）
+
+每棟宿舍設有多位樓層導師，每位負責特定樓層。以下是部分宿舍的導師分配示例：
+
+**Hall I 樓層導師：**
+| 導師姓名 | 負責樓層 | 電郵 |
+|----------|---------|------|
+| BAE, Juyoung | 1/F | jbaeaa@connect.ust.hk |
+| KIM, Minseong | 2/F | mkimaq@connect.ust.hk |
+| BAO, Yuxin | 3/F | ybaoak@connect.ust.hk |
+| LE, Tran Dang Khoi | 4/F | tdkle@connect.ust.hk |
+| HSU, Ke-cheng | 5/F | khsu@connect.ust.hk |
+| TANUWIJAYA, Randy Stefan | 6/F | rstanuwijaya@connect.ust.hk |
+| CASTRO, Johanne Rei Reyes | 7/F & 8/F | jrcastro@connect.ust.hk |
+
+**Hall V 樓層導師：**
+| 導師姓名 | 負責樓層 | 電郵 |
+|----------|---------|------|
+| LUO, Yucheng | G/F | yluobl@connect.ust.hk |
+| LIU, Yuwei | 1/F | yliuqg@connect.ust.hk |
+| WU, Rong | 2/F | wurong4456@163.com |
+| TANG, Jiawei | 3/F | jtangas@connect.ust.hk |
+| ZHANG, Chen | 4/F | czhangdn@connect.ust.hk |
+| LIN, Ting | 5/F | tlinaf@connect.ust.hk |
+
+**Hall VII 樓層導師：**
+| 導師姓名 | 負責樓層 | 電郵 |
+|----------|---------|------|
+| CHAI, Wen Jye | 1/F | wjchai@connect.ust.hk |
+| WANG, Hongrui | 2/F | hwangfb@connect.ust.hk |
+| YE, Yilin | 3/F | yyeaz@connect.ust.hk |
+| KIM, Jounghoon | 4/F | jkimcv@connect.ust.hk |
+| YU, Yue | 5/F | yyubv@connect.ust.hk |
+| CHUNG, Ka Yee | 6/F | kychungai@connect.ust.hk |
+| KIMISHIMA, Hiromi | 7/F | hkimishima@connect.ust.hk |
+
+## 溫馨提示
+
+- 作為新入學非本地生，您需等待 SHRLO 系統分配宿舍後，才能確定所屬樓層及對應的樓層導師 。
+- 入住時，宿舍辦公室會提供完整的導師聯絡名單及負責樓層資訊。
+- 如有緊急事宜，可先通過宿舍查詢電郵聯絡宿舍生活主任協助。
+- 建議入住後主動認識您的樓層導師，他們可協助您適應宿舍生活並提供支援 。
+
+如需查詢其他宿舍的完整導師名單，歡迎告訴我您被分配到的宿舍名稱。",1. User asked: 台风天宿舍有什么安排 | Assistant replied: 根據宿舍生活指南，颱風天宿舍有以下安排和注意事項： ## 颱風信號懸掛時的安排 **8號或以上颱風信號：** - 所有學生必須**留在室內*...,,40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",房间采光怎么样,"抱歉，目前知識庫中沒有關於宿舍房間具體採光情況（如窗戶朝向、日照時間、光線強度等）的詳細資料。
+
+不過，根據現有資訊，部分宿舍的房間景觀有以下特點：
+
+- **Hall III**：約一半房間享有**海景**，另一半為**山景**。
+- 其他宿舍的景觀資訊在知識庫中未明確提及。
+
+關於房間的基本配置，所有宿舍房間均配備窗戶，並提供基本傢俱（書桌、椅子、衣櫃、書架等）和空調。但具體的窗戶大小、朝向和採光效果會因宿舍樓層、房間位置和建築設計而有所不同。
+
+**建議：**
+由於採光情況會因具體房間而異，建議您：
+1. 入住後可向宿生導師或樓層導師查詢所分配房間的具體特點
+2. 與已入住的師兄師姐交流實際體驗
+3. 如有特殊需求（如需要充足自然光進行創作），可在入住後與宿舍管理人員溝通，看是否能協助調整
+
+⚠️ 提醒：宿舍房型和房間位置由 SHRLO 系統隨機分配，學生無法在申請時指定具體房間或朝向。","1. User asked: 台风天宿舍有什么安排 | Assistant replied: 根據宿舍生活指南，颱風天宿舍有以下安排和注意事項： ## 颱風信號懸掛時的安排 **8號或以上颱風信號：** - 所有學生必須**留在室內*...
+2. User asked: 宿生导师怎么联系 | Assistant replied: 宿生導師（Hall Tutor）的聯繫方式取決於您被分配到哪一棟宿舍。每棟宿舍的樓層導師負責不同樓層，您可以通過以下方式聯繫： ## 一般聯...",,40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",宿舍楼里有祈祷室吗,"抱歉，目前知識庫中沒有關於宿舍樓內是否設有祈禱室的資料。
+
+建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢各宿舍的宗教設施安排：
+- 電郵：shro@ust.hk
+- 網頁：https://shro.ust.hk/
+
+部分宿舍可能設有多功能房間或靜思室可供宗教活動使用，但具體設施需向宿舍管理處確認。","1. User asked: 台风天宿舍有什么安排 | Assistant replied: 根據宿舍生活指南，颱風天宿舍有以下安排和注意事項： ## 颱風信號懸掛時的安排 **8號或以上颱風信號：** - 所有學生必須**留在室內*...
+2. User asked: 宿生导师怎么联系 | Assistant replied: 宿生導師（Hall Tutor）的聯繫方式取決於您被分配到哪一棟宿舍。每棟宿舍的樓層導師負責不同樓層，您可以通過以下方式聯繫： ## 一般聯...
+3. User asked: 房间采光怎么样 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍房間具體採光情況（如窗戶朝向、日照時間、光線強度等）的詳細資料。 不過，根據現有資訊，部分宿舍的房間景觀有以下...","The student is concerned about room lighting and natural light, suggesting they value a bright, well-lit living space and may be sensitive to dark or poorly lit rooms.",25,18,15,10,0,70,核心数据-10:严重错误(知识库有祈祷室信息但声明无资料);无幻觉-10:用户提问核心内容编造;问题,核心数据-10:严重错误(知识库有祈祷室信息但声明无资料);无幻觉-10:用户提问核心内容编造;问题解决-10:未解决核心诉求,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",退宿要提前多久申请,"根據知識庫資料，關於退宿的申請和截止日期如下：
+
+**退宿截止日期**
+您需要在住宿期結束前親自辦理退宿手續並清空所有個人物品。具體的最後退宿日期取決於您的住宿學期：
+
+| 學生類別 | 最後退宿日期 |
+| :--- | :--- |
+| 本地/非本地學生 (2025-26 學年) | 2026 年 6 月 2 日 |
+| 本地/非本地學生 (2025 秋季學期) | 2026 年 1 月 10 日 |
+| 本地/非本地學生 (2025 夏季住宿) | 2025 年 8 月 11 日 |
+
+**注意事項**：
+- **時間要求**：您必須在最後退宿日期的**中午 12 點前**完成退宿並離開宿舍。
+- **通知提醒**：宿舍管理處會在住宿期結束前發送「退宿提醒」(Check-out Reminder) 郵件給您，請密切留意電郵通知。
+- **親自辦理**：退宿手續必須**親自** (IN PERSON) 辦理，不可委託他人。
+
+**關於提前申請**：
+知識庫中主要列出了最後退宿的截止日期 (Latest Check-out Date)。若您是指**提前終止住宿合約** (例如在學期結束前搬離)，建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢具體的申請流程和通知期限，因為這可能涉及合約條款和費用調整。","1. User asked: 宿生导师怎么联系 | Assistant replied: 宿生導師（Hall Tutor）的聯繫方式取決於您被分配到哪一棟宿舍。每棟宿舍的樓層導師負責不同樓層，您可以通過以下方式聯繫： ## 一般聯...
+2. User asked: 房间采光怎么样 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍房間具體採光情況（如窗戶朝向、日照時間、光線強度等）的詳細資料。 不過，根據現有資訊，部分宿舍的房間景觀有以下...
+3. User asked: 宿舍楼里有祈祷室吗 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍樓內是否設有祈禱室的資料。 建議您直接聯繫 **Student Housing and Residential...","The student is concerned about room lighting and natural light, suggesting they value a bright, well-lit living space and may be sensitive to dark or poorly lit rooms.",40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",消防演习多久举办一次,"根據宿舍生活指南，消防演習通常**每學期初舉辦一次**。
+
+**消防演習重點資訊：**
+
+- **舉辦時間**：每學期開始時舉行，旨在提高住戶的安全意識
+- **演習信號**：火警鐘會持續響起（真實火警或演習時均如此）
+- **參與要求**：所有住戶必須參與，包括當晚在宿舍的訪客
+- **注意事項**：
+  - 提前熟悉樓層電梯大堂張貼的逃生路線圖
+  - 聽到連續警報聲時，立即撤離大樓
+  - 撤離前請鎖好房門，保護個人財物
+  - 配合宿舍工作人員指示
+  - 演習後宿舍主任會檢查房間，未參與者需解釋原因
+  - 如有身體不適或嚴重疾病，請提前告知宿舍辦公室以便作特殊安排
+
+⚠️ **提醒**：消防演習對保障生命安全非常重要，請務必認真對待並積極參與。","1. User asked: 房间采光怎么样 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍房間具體採光情況（如窗戶朝向、日照時間、光線強度等）的詳細資料。 不過，根據現有資訊，部分宿舍的房間景觀有以下...
+2. User asked: 宿舍楼里有祈祷室吗 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍樓內是否設有祈禱室的資料。 建議您直接聯繫 **Student Housing and Residential...
+3. User asked: 退宿要提前多久申请 | Assistant replied: 根據知識庫資料，關於退宿的申請和截止日期如下： **退宿截止日期** 您需要在住宿期結束前親自辦理退宿手續並清空所有個人物品。具體的最後退宿...","The student is concerned about room lighting and natural light, suggesting they value a bright, well-lit living space and may be sensitive to dark or poorly lit rooms.",40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",GGT智能电表在哪查用电量,"GGT（Jockey Club Global Graduate Tower）智能電表系統已全面啟用，您可以透過以下方式查詢用電量及繳付電費：
+
+### 查詢途徑
+- **系統網址**：請訪問 [GGT 智能電表系統](https://w5.ab.ust.hk/njggt/app)
+- **登入方式**：使用您的 **HKUST 電郵帳戶**（HKUST Account）登入
+
+### 可查詢的數據
+登入系統後，您可以查看以下詳細資訊：
+- **實時用電量**：查看您房間每日、每週及每月的實時用電數據
+- **分類用電詳情**：分別顯示空調、牆身插座及照明的用電量
+- **每月賬單**：查看每月的公用事業費用發票（Invoice）
+- **洗衣房狀態**：查看所有洗衣房洗衣機及乾衣機的實時使用情況
+
+### 費用計算與繳付
+- **賬單發送**：每月月初（例如 11 月 1 日發送 10 月賬單）會透過您的 HKUST 電郵發送上月賬單
+- **費用構成**：
+  - 公共區域固定費用：每月 HK$100
+  - 房間用電費用：按智能電表讀數計算，目前單價為 **HK$1.3/度**
+- **繳費方式**：可直接在系統內線上繳付賬單
+
+如有任何查詢，請電郵至 **ggt@ust.hk** 聯絡管理處。","1. User asked: 宿舍楼里有祈祷室吗 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍樓內是否設有祈禱室的資料。 建議您直接聯繫 **Student Housing and Residential...
+2. User asked: 退宿要提前多久申请 | Assistant replied: 根據知識庫資料，關於退宿的申請和截止日期如下： **退宿截止日期** 您需要在住宿期結束前親自辦理退宿手續並清空所有個人物品。具體的最後退宿...
+3. User asked: 消防演习多久举办一次 | Assistant replied: 根據宿舍生活指南，消防演習通常**每學期初舉辦一次**。 **消防演習重點資訊：** - **舉辦時間**：每學期開始時舉行，旨在提高住戶的...","The student is concerned about religious facilities in the dormitory, suggesting they value access to a prayer or quiet reflection space as part of their daily routine.",40,20,20,10,10,100,无,无,无
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",房间实际使用面积多少 墙面允许打孔安装置物架吗 储物柜深度够放摄影器材箱吗,"抱歉，目前知識庫中沒有關於以下房間內部詳細規格的資料：
+
+- **房間實際使用面積**（平方公尺/平方呎）
+- **牆面是否允許打孔安裝置物架**的規定
+- **儲物櫃深度尺寸**（是否足夠放置攝影器材箱）
+
+這些屬於房間內部的具體規格細節，建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢，他們能提供更準確的房間平面圖和內部設施尺寸資訊。
+
+**聯絡方式建議：**
+- 電郵：shrlo@ust.hk
+- 辦公室地點：學生事務處大樓
+- 亦可於入住時向宿舍管理處或樓層導師查詢
+
+⚠️ **提醒：** 關於牆面打孔，一般宿舍通常不允許在牆壁釘釘或打孔，以免損壞牆身，但具體規定需以官方回覆為準。建議您提前查詢，以便規劃攝影器材的收納方案。","1. User asked: 退宿要提前多久申请 | Assistant replied: 根據知識庫資料，關於退宿的申請和截止日期如下： **退宿截止日期** 您需要在住宿期結束前親自辦理退宿手續並清空所有個人物品。具體的最後退宿...
+2. User asked: 消防演习多久举办一次 | Assistant replied: 根據宿舍生活指南，消防演習通常**每學期初舉辦一次**。 **消防演習重點資訊：** - **舉辦時間**：每學期開始時舉行，旨在提高住戶的...
+3. User asked: GGT智能电表在哪查用电量 | Assistant replied: GGT（Jockey Club Global Graduate Tower）智能電表系統已全面啟用，您可以透過以下方式查詢用電量及繳付電費：...","The student is concerned about religious facilities in the dormitory, suggesting they value access to a prayer or quiet reflection space as part of their daily routine.",40,20,20,10,10,100,无,无,房间实际面积数据
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",宿生会活动怎么报名参加 活动要收费吗 新生必须参加吗,"歡迎來到香港科技大學本科生宿舍資訊助手！🏠
+
+我可以為您解答以下宿舍相關問題：
+
+- **費用查詢**：各宿舍不同房型的年費、不同學生類別的價格差異
+- **房型資訊**：各宿舍提供的房型（Single Room、Double Room、Triple Room、Bunk Bed Room）、可用性
+- **設施查詢**：洗衣房、公共休息室、茶水間、衛浴等設施的開放時間及使用規則
+- **申請政策**：優先住宿規則、Hall Point 積分體系、申請流程、截止日期
+- **宿舍人員**：舍監、樓層導師的姓名及聯繫方式
+- **重要日期**：申請時間節點、繳費截止日期等
+
+**請告訴我您的具體問題**，例如：
+- 「Hall VII 單人房多少錢？」
+- 「新入學本地生可以住哪些宿舍？」
+- 「宿舍申請截止日期是什麼時候？」
+- 「Hall II 有什麼設施？」
+
+為提供更準確的資訊，如涉及費用或房型可用性，建議同時告知您的學生類別（新入學本地生／在學本地生／新入學非本地生／在學非本地生）。
+
+期待您的查詢！😊","1. User asked: 消防演习多久举办一次 | Assistant replied: 根據宿舍生活指南，消防演習通常**每學期初舉辦一次**。 **消防演習重點資訊：** - **舉辦時間**：每學期開始時舉行，旨在提高住戶的...
+2. User asked: GGT智能电表在哪查用电量 | Assistant replied: GGT（Jockey Club Global Graduate Tower）智能電表系統已全面啟用，您可以透過以下方式查詢用電量及繳付電費：...
+3. User asked: 房间实际使用面积多少 墙面允许打孔安装置物架吗 储物柜深度够放摄影器材箱吗 | Assistant replied: 抱歉，目前知識庫中沒有關於以下房間內部詳細規格的資料： - **房間實際使用面積**（平方公尺/平方呎） - **牆面是否允許打孔安裝置物架...","The student is concerned about religious facilities in the dormitory, suggesting they value access to a prayer or quiet reflection space as part of their daily routine.",0,15,5,10,8,30,核心数据-25:致命错误(未回答任何问题);政策规则-5;问题解决-20:核心诉求未解决;个性化-1,核心数据-25:致命错误(未回答任何问题);政策规则-5;问题解决-20:核心诉求未解决;个性化-15,宿生会活动报名方式
+final_test_8@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Sea View', 'Social', 'Facilities', 'Convenience'], 'room_types': ['Single Room', 'Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '需要稳定的高速网络支持视频上传和云存储，希望宿舍有公共创作空间或音乐练习室'}",宿舍押金退还大概要多久 住宿费能分期交吗 逾期缴费会有滞纳金吗,"抱歉，目前知識庫中沒有關於以下事項的具體資料：
+
+- **宿舍押金退還時間**
+- **住宿費是否允許分期繳交**
+- **逾期繳費是否會產生滯納金**
+
+這些涉及財務與行政規定的細節，建議您直接聯絡 **Student Housing and Residential Life Office (SHRLO)** 查詢，以獲取最準確的官方資訊：
+
+- **電郵**：shro@ust.hk
+- **網頁**：[https://shro.ust.hk](https://shro.ust.hk)
+
+⚠️ **提醒**：宿舍繳費通常有嚴格截止日期，逾期可能會影響住宿資格或產生額外費用，建議您留意 SHRLO 發送的官方電郵通知，並按時完成繳款程序。如有特殊財務安排需求，亦請儘早與辦公室溝通。","1. User asked: GGT智能电表在哪查用电量 | Assistant replied: GGT（Jockey Club Global Graduate Tower）智能電表系統已全面啟用，您可以透過以下方式查詢用電量及繳付電費：...
+2. User asked: 房间实际使用面积多少 墙面允许打孔安装置物架吗 储物柜深度够放摄影器材箱吗 | Assistant replied: 抱歉，目前知識庫中沒有關於以下房間內部詳細規格的資料： - **房間實際使用面積**（平方公尺/平方呎） - **牆面是否允許打孔安裝置物架...
+3. User asked: 宿生会活动怎么报名参加 活动要收费吗 新生必须参加吗 | Assistant replied: 歡迎來到香港科技大學本科生宿舍資訊助手！🏠 我可以為您解答以下宿舍相關問題： - **費用查詢**：各宿舍不同房型的年費、不同學生類別的價格...","The student is detail-oriented and concerned about room specifications, suggesting they value personal space and storage for equipment, indicating a preference for a single room or a room with ample storage and minimal shared space.",35,20,20,10,8,93,邮箱笔误,"核心数据-5:笔误(邮箱shro@ust.hk错误,知识库中为shrloinfo@ust.hk);规范性-2:引用邮箱错误",押金金额及扣款标准

@@ -1,0 +1,270 @@
+email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",离地铁最近的宿舍是哪栋,"根據知識庫資料，關於宿舍與地鐵站的距離情況如下：
+
+**離地鐵站交通最便利的宿舍區域：**
+
+1. **iVillage（Hall X–XIII）**：離校園**南門**最近，方便乘坐小巴或巴士前往**彩虹、鑽石山、觀塘**等地鐵站附近區域。
+
+2. **Hall I**：離校園**北門**最近，方便乘坐小巴或巴士前往**坑口、將軍澳**等地鐵站附近區域。
+
+需要留意的是，HKUST 校園位於清水灣，所有宿舍都需要搭乘巴士或小巴才能到達地鐵站，沒有宿舍可以直接步行至地鐵站。
+
+**各宿舍交通特點：**
+
+| 宿舍 | 交通優勢 | 附近地鐵站方向 |
+|------|----------|----------------|
+| iVillage (Hall X–XIII) | 靠近南門，巴士/小巴便捷 | 彩虹、鑽石山、觀塘 |
+| Hall I | 靠近北門，巴士/小巴便捷 | 坑口、將軍澳 |
+| Hall II–IX | 位於校園中部 | 需視乎路線選擇 |
+
+**給您的建議：**
+
+作為在學非本地生，您的預算為 HK$20,000–26,000，希望入住 Double Room 並重視價格、便利性和社交氛圍：
+
+- **便利性角度**：iVillage（Hall X–XIII）和 Hall I 在交通上較為便利，但需考慮您平時常去的地點（如市區、機場等）來選擇適合的地鐵線方向。
+- **社交與設施**：Hall I 最靠近學術大樓、圖書館、食堂及超市，生活便利性高；iVillage 設施較新，但位置相對偏遠。
+- **價格因素**：建議您進一步查詢各宿舍 Double Room 的具體費用，以配合您的預算範圍。
+
+⚠️ **提醒**：宿舍房型由 SHRLO 系統隨機分配，學生無法自行選擇房型。申請時您只能選擇最多 3 個宿舍進行優先排序。",,,40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",双人间一个月住宿费多少,"根據知識庫資料，作為**在學非本地本科生（Continuing Non-Local Undergraduate）**，雙人間（Double Room）的住宿費用按學年收取，一學年通常為 9 個月（約 9 月至次年 6 月）。
+
+以下是各宿舍雙人間的年費及換算後的每月平均費用：
+
+| 宿舍名稱 | 雙人間年費 (HK$) | 每月平均費用 (HK$) | 是否符合預算 (HK$20,000-26,000/年) |
+|----------|------------------|--------------------|-----------------------------------|
+| Hall I | $24,464 | 約 $2,718 | ✅ 符合 |
+| Hall II | $24,464 | 約 $2,718 | ✅ 符合 |
+| Hall III | $24,464 | 約 $2,718 | ✅ 符合 |
+| Hall IV | $24,464 | 約 $2,718 | ✅ 符合 |
+| Hall V | 不提供雙人間 | N/A | ❌ |
+| Hall VI | $24,464 | 約 $2,718 | ✅ 符合 |
+| Hall VII | $30,024 | 約 $3,336 | ❌ 超出預算 |
+| Hall VIII | $30,024 | 約 $3,336 | ❌ 超出預算 |
+| Hall IX | $30,024 | 約 $3,336 | ❌ 超出預算 |
+| Hall X | $31,692 | 約 $3,521 | ❌ 超出預算 |
+| Hall XI | $31,692 | 約 $3,521 | ❌ 超出預算 |
+| Hall XII | $31,692 | 約 $3,521 | ❌ 超出預算 |
+| Hall XIII | $31,692 | 約 $3,521 | ❌ 超出預算 |
+| JCH | $32,526 | 約 $3,614 | ❌ 超出預算 |
+
+**符合您預算（HK$20,000-26,000/年）的宿舍：**
+- **Hall I、II、III、IV、VI**：雙人間年費均為 **HK$24,464**，每月平均約 **HK$2,718**
+
+**重要提醒：**
+1. 宿舍費用按學年收取，上述每月費用為平均換算，實際繳費按學年一次性或分期繳納。
+2. 以上費用不包括空調費及其他公用設施費用（如洗衣、電费等），這些費用需另行繳付。
+3. 房型由 SHRLO 系統隨機分配，學生無法自行選擇。申請時您只能選擇最多 3 個宿舍進行優先排序。
+4. 關於公共廚房和洗衣設施，大部分宿舍均設有洗衣房（Laundry Room）和茶水間（Pantry），建議進一步查詢各宿舍的具體設施配置。
+
+如需了解特定宿舍的設施詳情或申請截止日期，歡迎隨時查詢！",1. User asked: 离地铁最近的宿舍是哪栋 | Assistant replied: 根據知識庫資料，關於宿舍與地鐵站的距離情況如下： **離地鐵站交通最便利的宿舍區域：** 1. **iVillage（Hall X–XIII...,,40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",宿舍自习室最晚开到几点,"關於宿舍自習室（Study Room）或公共休息室（Common Room）的開放時間，不同宿舍的規定有所不同：
+
+| 宿舍名稱 | 自習室/公共空間 | 開放時間 |
+|----------|----------------|----------|
+| JCH (Jockey Club Hall) | 5/F Study Room | 每日 7:30am – 1:00am  |
+| Hall VIII | 專為 Hall VIII & IX 住戶服務的自習室 | 24 小時開放  |
+| Hall IX | 專為 Hall VIII & IX 住戶服務的自習室 | 24 小時開放  |
+| Hall I – Hall IX | Common Room（公共休息室） | 無固定開放時間，任何時間均可使用  |
+
+**重點說明：**
+- **Hall VIII 和 Hall IX** 設有專門的 24 小時自習室，方便住戶深夜溫習 。
+- **JCH** 的自習室開放至凌晨 1 點，但開放時間可能會在不另行通知的情況下調整 。
+- **所有宿舍（Hall I – Hall IX）的 Common Room** 均無固定開放時間限制，住戶可隨時使用 。
+- 所有宿舍均無門禁時間，住戶可憑學生卡隨時進出宿舍大樓 。
+
+⚠️ **提醒：** 自習室的開放時間可能會因特殊情況（如考試期間、節假日或維修）而調整，建議留意宿舍公告或向宿舍辦公室查詢最新安排。","1. User asked: 离地铁最近的宿舍是哪栋 | Assistant replied: 根據知識庫資料，關於宿舍與地鐵站的距離情況如下： **離地鐵站交通最便利的宿舍區域：** 1. **iVillage（Hall X–XIII...
+2. User asked: 双人间一个月住宿费多少 | Assistant replied: 根據知識庫資料，作為**在學非本地本科生（Continuing Non-Local Undergraduate）**，雙人間（Double...",,40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",不同宿舍楼公共洗衣房的机器数量差别大吗,"是的，不同宿舍樓的洗衣房機器數量**差別確實較大**。根據知識庫資料，各宿舍的洗衣機和烘乾機數量如下：
+
+| 宿舍名稱 | 洗衣機數量 | 烘乾機數量 | 備註 |
+|----------|------------|------------|------|
+| Hall I | 10 台 | 10 台 | 與 SKCC Hall 共用 |
+| Hall II | 5 台 | 5 台 | 位於 2/F |
+| Hall III | 6 台 | 6 台 | 位於 G/F |
+| Hall IV | 6 台 | 6 台 | 位於 G/F |
+| Hall V | 5 台 | 5 台 | 位於 G/F |
+| Hall VI | 6 台 | 6 台 | 位於 G/F |
+| Hall VII | 4 台 | 4 台 | 位於 G/F |
+| Hall VIII | 10 台 | 10 台 | 與 Hall IX 共用，位於 G/F |
+| Hall IX | 10 台 | 10 台 | 與 Hall VIII 共用，位於 G/F |
+| JCH | 未列明 | 未列明 | 設有洗衣機、烘乾機及熨衣板 |
+
+**重點觀察：**
+- **機器最多**：Hall I、Hall VIII、Hall IX 各有 10 台洗衣機 + 10 台烘乾機，洗衣容量最大
+- **機器最少**：Hall VII 僅有 4 台洗衣機 + 4 台烘乾機
+- **差別幅度**：最多與最少的宿舍相差達 2.5 倍
+
+**洗衣費用**（所有宿舍統一）：
+- 提供洗衣液：HK$9 / 次
+- 不提供洗衣液：HK$8 / 次
+- 烘乾機：HK$1.25 / 5 分鐘
+- 支付方式：支持八達通、支付寶、微信支付、Visa/Master 等 
+
+**給您的建議：**
+作為在學非本地生，若您優先考慮洗衣便利性，**Hall I、Hall VIII、Hall IX** 的洗衣資源最充足，高峰期排隊機率較低。其中 Hall VIII 和 Hall IX 共用洗衣房，總容量達 20 台洗衣機 + 20 台烘乾機，對兩棟樓的住戶來說相當充裕。
+
+⚠️ 提醒：所有洗衣機均為智能卡或電子支付操作，熨斗和熨衣板可向宿舍櫃檯借用（視供應情況而定）。建議入住後盡快熟悉洗衣系統操作。","1. User asked: 离地铁最近的宿舍是哪栋 | Assistant replied: 根據知識庫資料，關於宿舍與地鐵站的距離情況如下： **離地鐵站交通最便利的宿舍區域：** 1. **iVillage（Hall X–XIII...
+2. User asked: 双人间一个月住宿费多少 | Assistant replied: 根據知識庫資料，作為**在學非本地本科生（Continuing Non-Local Undergraduate）**，雙人間（Double...
+3. User asked: 宿舍自习室最晚开到几点 | Assistant replied: 關於宿舍自習室（Study Room）或公共休息室（Common Room）的開放時間，不同宿舍的規定有所不同： **重點說明：** - *...","The student prioritises proximity to the MTR station and budget-friendly double rooms, showing a practical, cost-conscious attitude with no strong social or study environment preferences.",40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",空调费各宿舍收的一样吗,"**不一樣的** — 準確來說，**空調費並非固定金額，而是按實際用電量收費**，所有宿舍均採用相同計費模式，但每位住戶最終支付的金额會因使用習慣而異。
+
+### 空調收費機制（所有宿舍統一）
+
+- **電子電表**：所有宿舍房間的空調均安裝電子電表（Electronic meters）。
+- **按量計費**：住戶根據**實際用電量**支付空調費用，而非固定月費或年費。
+- **預付信用額**：透過 HKUST Smart Meter 系統，住戶可預先充值信用額（pre-loaded credit）到房間空調，使用時自動扣減。
+- **支付方式**：支援多種電子支付，包括 Visa/Master、FPS、支付寶、微信支付、銀聯等。
+- **遠程控制**：住戶可透過系統遠程操作空調，並實時查看用電量和餘額。
+
+### 重要提醒
+
+- 您之前查詢的宿舍住宿費（如 Double Room 年費 HK$24,464–$31,692，視乎宿舍）**不包含空調費**。
+- 空調費是**額外按月結算**的公用事業費用，與住宿費分開收取。
+- 若未在發票發出後 5 天內繳付，費用將轉入 SIS 學生賬戶作為欠款。
+- 雙人房住戶的空調費會按 50/50 比例分攤至兩位住戶的 SIS 賬戶。
+
+### 實用建議
+
+由於空調費按實際用量計算，建議您：
+- 定期透過 Smart Meter 系統查看用電量，避免超支
+- 與室友協調空調使用習慣，公平分攤費用
+- 熟悉系統操作，善用遠程控制功能節省能源
+
+如需系統使用手冊或協助，可前往所屬宿舍的櫃檯查詢。
+
+---","1. User asked: 双人间一个月住宿费多少 | Assistant replied: 根據知識庫資料，作為**在學非本地本科生（Continuing Non-Local Undergraduate）**，雙人間（Double...
+2. User asked: 宿舍自习室最晚开到几点 | Assistant replied: 關於宿舍自習室（Study Room）或公共休息室（Common Room）的開放時間，不同宿舍的規定有所不同： **重點說明：** - *...
+3. User asked: 不同宿舍楼公共洗衣房的机器数量差别大吗 | Assistant replied: 是的，不同宿舍樓的洗衣房機器數量**差別確實較大**。根據知識庫資料，各宿舍的洗衣機和烘乾機數量如下： **重點觀察：** - **機器最多...","The student prioritises proximity to the MTR station and budget-friendly double rooms, showing a practical, cost-conscious attitude with no strong social or study environment preferences.",40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",各宿舍公共厨房的设备配置差别大吗,"各宿舍公共廚房（Pantry）的設備配置**確實存在差別**，但有一個非常重要的共同點需要您先了解：
+
+## ⚠️ 重要提醒：所有宿舍均不提供烹飪設施
+
+根據官方資料，**所有本科生宿舍的 Pantry 均不設爐灶等烹飪設備**（no cooking facilities），僅供簡單加熱食物使用。這意味著您無法在宿舍內正式烹調餐點，只能使用微波爐加熱預先準備好的食物。
+
+## 各宿舍 Pantry 設備配置對比
+
+| 宿舍名稱 | 洗手池 | 飲水機 | 冰箱 | 微波爐 | 電熱水壺 |
+|----------|--------|--------|------|--------|----------|
+| Hall I | ✅ | ❌ | 1 台 | 1 台 | ❌ |
+| Hall II | ✅ | ✅ | 1 台 | 1 台 | ✅ |
+| Hall III | ✅ | ✅ | ❌ | 2 台 | ❌ |
+| Hall IV | ✅ | ✅ | 1 台 | 1 台 | ✅ |
+| Hall V | ✅ | ❌ | ❌ | 1 台 | ✅ |
+| Hall VI | ✅ | ✅ | 1 台 | 1 台 | ✅ |
+| Hall VII | ✅ | ✅ | 2 台 | 2 台 | ✅ |
+| Hall VIII | ✅ | ✅ | 1 台 | 1 台 | ❌ |
+| Hall IX | ✅ | ✅ | 1 台 | 1 台 | ❌ |
+| JCH | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## 重點觀察
+
+**配置最豐富的宿舍：**
+- **Hall VII（李兆基宿舍）**：唯一提供 **2 台冰箱 + 2 台微波爐** 的宿舍，同時配備飲水機和電熱水壺，設備最完善。
+
+**配置較基本的宿舍：**
+- **Hall I**：無飲水機和電熱水壺，僅基本配置。
+- **Hall V**：無冰箱，僅提供微波爐和電熱水壺，微波爐僅供加熱和簡單食物準備使用。
+- **JCH（賽馬會宿舍）**：**無專屬 Pantry 設施**，需特別留意。
+
+**特殊情況：**
+- **Hall III**：雖然官方資料顯示無冰箱，但有住戶評價提到 Common Room 空間大，曾提及可借用電磁爐做飯，但**官方明確規定無烹飪設施**，建議以官方規定為準。
+
+## 對您的建議
+
+作為在學非本地生，您的預算為 HK$20,000-26,000 並希望有 Double Room：
+
+1. **烹飪需求**：如果您期望在宿舍內正式做飯，可能需要調整預期。所有宿舍均不提供爐灶，只能使用微波爐加熱食物。
+2. **優先考慮**：若重視 Pantry 設備完善度，**Hall VII** 是最佳選擇（2 冰箱 +2 微波爐）。
+3. **避免選擇**：**JCH** 無專屬 Pantry，**Hall V** 無冰箱，可能不太符合您的需求。
+4. **洗衣設施**：您之前已查詢過洗衣房機器數量，建議結合洗衣房配置一起考慮。
+
+⚠️ **提醒**：宿舍申請時您僅可選擇最多 3 個宿舍進行優先排序，房型由 SHRLO 系統隨機分配。建議您將 Pantry 設備較完善的宿舍（如 Hall VII、Hall II、Hall IV、Hall VI）列為優先選擇。","1. User asked: 宿舍自习室最晚开到几点 | Assistant replied: 關於宿舍自習室（Study Room）或公共休息室（Common Room）的開放時間，不同宿舍的規定有所不同： **重點說明：** - *...
+2. User asked: 不同宿舍楼公共洗衣房的机器数量差别大吗 | Assistant replied: 是的，不同宿舍樓的洗衣房機器數量**差別確實較大**。根據知識庫資料，各宿舍的洗衣機和烘乾機數量如下： **重點觀察：** - **機器最多...
+3. User asked: 空调费各宿舍收的一样吗 | Assistant replied: **不一樣的** — 準確來說，**空調費並非固定金額，而是按實際用電量收費**，所有宿舍均採用相同計費模式，但每位住戶最終支付的金额會因使...","The student prioritises proximity to the MTR station and budget-friendly double rooms, showing a practical, cost-conscious attitude with no strong social or study environment preferences.",40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",各栋宿舍卫生间配置差别大吗,"根據知識庫資料，各棟宿舍的衛生間配置**確實存在明顯差別**，主要體現在以下幾個方面：
+
+## 配置模式差異
+
+**1. 樓層公共衛生間模式（大多數宿舍）**
+- **Hall I**：每層設有 **2 個衛生間**，均配備淋浴設施
+- **Hall II**：每層設有 **1 個衛生間**，配備淋浴設施
+- **Hall III**：每層設有 **2 個衛生間**，配備淋浴設施
+- **Hall IV**：每層設有 **2 個衛生間**，配備淋浴設施
+
+**2. 翼樓公共衛生間模式**
+- **Hall V**：每翼設有 **1 個衛生間**，內含 **3 個廁所 + 3 個淋浴間**
+- **Hall VI**：每翼設有 **1 個衛生間**，內含 **4 個廁所 + 4 個淋浴間**（設計為男女共用）
+
+**3. 套房內衛生間模式（最特殊）**
+- **JCH（賽馬會宿舍）**：每個公寓單位內設有 **2 個廁所 + 2 個淋浴間**，屬於房內獨立衛生間
+
+## 重要共同點
+
+✅ **所有宿舍均提供熱水淋浴**
+✅ **所有衛生間均配備淋浴設施**
+
+## 對您的實際影響
+
+作為在學非本地生，如果您優先考慮**隱私和便利性**：
+- **JCH** 的套房內衛生間配置最優越，無需與他人共用，但費用較高且僅提供 Double Room
+- **Hall VI** 每翼有 4 個廁所和淋浴間，相對使用壓力較小
+- **Hall II** 每層僅 1 個衛生間，使用高峰期可能需要輪候
+
+⚠️ **提醒**：宿舍房型由 SHRLO 系統隨機分配，您只能選擇最多 3 個宿舍進行優先排序。如果您重視衛生間配置，可將 JCH 或 Hall VI 列為優先選擇，但具體房型和宿舍分配仍視乎名額情況。","1. User asked: 不同宿舍楼公共洗衣房的机器数量差别大吗 | Assistant replied: 是的，不同宿舍樓的洗衣房機器數量**差別確實較大**。根據知識庫資料，各宿舍的洗衣機和烘乾機數量如下： **重點觀察：** - **機器最多...
+2. User asked: 空调费各宿舍收的一样吗 | Assistant replied: **不一樣的** — 準確來說，**空調費並非固定金額，而是按實際用電量收費**，所有宿舍均採用相同計費模式，但每位住戶最終支付的金额會因使...
+3. User asked: 各宿舍公共厨房的设备配置差别大吗 | Assistant replied: 各宿舍公共廚房（Pantry）的設備配置**確實存在差別**，但有一個非常重要的共同點需要您先了解： ## ⚠️ 重要提醒：所有宿舍均不提供...","The student is concerned about practical daily conveniences like laundry, air conditioning costs, and kitchen facilities, indicating they value functional, well-equipped living spaces and may prefer halls with more amenities to avoid inconvenience.",40,20,20,10,10,100,无,无,无
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",门禁卡弄丢了去哪补办 一般几天能拿到新的 晚上楼里有保安巡逻吗 大概多久会巡一次,"抱歉，目前知識庫中沒有關於門禁卡補辦流程、補辦所需時間，以及保安巡邏頻率的具體資料。
+
+關於這些宿舍管理相關的行政和安全事宜，建議您直接聯繫以下單位查詢：
+
+- **Student Housing and Residential Life Office (SHRLO)**：負責宿舍行政事務，包括門禁卡補辦
+- **您所住宿舍的宿舍辦公室 (Hall Office)**：每棟宿舍設有辦公室，可處理門禁卡補領及查詢保安安排
+- **宿舍舍監 (Hall Tutor) 或樓層導師 (Floor Fellow)**：可協助轉介或提供初步資訊
+
+一般來說，門禁卡補辦可能需要數個工作天，但實際時間會因宿舍而異；保安巡邏安排也由各宿舍自行制定。為免影響您的出入，建議盡快向所住宿舍的辦公室報失並申請補辦。
+
+如有其他關於宿舍設施、費用或房型的問題，歡迎隨時查詢！","1. User asked: 空调费各宿舍收的一样吗 | Assistant replied: **不一樣的** — 準確來說，**空調費並非固定金額，而是按實際用電量收費**，所有宿舍均採用相同計費模式，但每位住戶最終支付的金额會因使...
+2. User asked: 各宿舍公共厨房的设备配置差别大吗 | Assistant replied: 各宿舍公共廚房（Pantry）的設備配置**確實存在差別**，但有一個非常重要的共同點需要您先了解： ## ⚠️ 重要提醒：所有宿舍均不提供...
+3. User asked: 各栋宿舍卫生间配置差别大吗 | Assistant replied: 根據知識庫資料，各棟宿舍的衛生間配置**確實存在明顯差別**，主要體現在以下幾個方面： ## 配置模式差異 **1. 樓層公共衛生間模式（大...","The student is concerned about practical daily conveniences like laundry, air conditioning costs, and kitchen facilities, indicating they value functional, well-equipped living spaces and may prefer halls with more amenities to avoid inconvenience.",40,20,20,10,10,100,无,无,门禁卡补办流程、保安巡逻频率
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",每层楼灭火器放哪 紧急情况下联系谁 宿舍有24小时值班电话吗,"抱歉，目前知識庫中沒有關於以下資訊的具體資料：
+
+- **滅火器位置**：每層樓滅火器的具體擺放位置
+- **緊急聯絡方式**：緊急情況下應聯繫的具體人員或部門
+- **24 小時值班電話**：宿舍是否設有 24 小時值班電話及相關聯絡號碼
+
+## 建議查詢途徑
+
+關於宿舍安全設施和緊急聯絡事宜，建議您直接聯繫以下部門獲取準確資訊：
+
+- **Student Housing and Residential Life Office (SHRLO)**：負責宿舍整體管理
+- **所屬宿舍的宿舍辦公室 (Hall Office)**：每棟宿舍設有辦公室，可提供該棟樓的具體安全設施資訊
+- **校園保安處 (Campus Security)**：處理緊急安全事務，設有 24 小時熱線
+
+## 實用提醒
+
+作為在學非本地生，建議您：
+- 入住時向宿舍辦公室索取**宿舍手冊**，通常會包含緊急聯絡資訊和安全設施說明
+- 留意宿舍內的**緊急疏散圖**，通常張貼於電梯旁或主要通道
+- 保存宿舍舍監 (Hall Warden) 和樓層導師 (Resident Tutor) 的聯絡方式
+- 將校園保安 24 小時熱線存入手機聯絡人
+
+如需進一步協助，歡迎隨時查詢其他宿舍相關資訊。","1. User asked: 各宿舍公共厨房的设备配置差别大吗 | Assistant replied: 各宿舍公共廚房（Pantry）的設備配置**確實存在差別**，但有一個非常重要的共同點需要您先了解： ## ⚠️ 重要提醒：所有宿舍均不提供...
+2. User asked: 各栋宿舍卫生间配置差别大吗 | Assistant replied: 根據知識庫資料，各棟宿舍的衛生間配置**確實存在明顯差別**，主要體現在以下幾個方面： ## 配置模式差異 **1. 樓層公共衛生間模式（大...
+3. User asked: 门禁卡弄丢了去哪补办 一般几天能拿到新的 晚上楼里有保安巡逻吗 大概多久会巡一次 | Assistant replied: 抱歉，目前知識庫中沒有關於門禁卡補辦流程、補辦所需時間，以及保安巡邏頻率的具體資料。 關於這些宿舍管理相關的行政和安全事宜，建議您直接聯繫以...","The student is concerned about practical daily conveniences like laundry, air conditioning costs, and kitchen facilities, indicating they value functional, well-equipped living spaces and may prefer halls with more amenities to avoid inconvenience.",40,20,20,10,10,100,无,无,灭火器具体位置、紧急联络方式、24小时值班电话
+ada1@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Price', 'Convenience', 'Social'], 'room_types': ['Double Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望宿舍楼内有公共厨房和洗衣设施，方便日常使用。'}",入住最早能提前几天办理 房间钥匙现场领还是邮寄 退宿检查时家具磨损怎么算赔偿,"抱歉，目前知識庫中沒有關於以下資訊的具體資料：
+
+- **提前入住天數**：最早可以提前幾天辦理入住手續
+- **鑰匙領取方式**：房間鑰匙是現場領取還是郵寄到家
+- **家具磨損賠償標準**：退宿檢查時如何計算家具磨損的賠償金額
+
+這些屬於宿舍入住和退宿的具體行政安排，建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢：
+
+- **電郵**：shrlo@ust.hk
+- **辦公時間**：週一至週五（公眾假期除外）
+- **建議**：在收到宿舍分配通知後，官方電郵中通常會包含詳細的入住須知（Check-in Information），其中會說明鑰匙領取方式、辦理時間等重要資訊，請務必留意查收。
+
+⚠️ **提醒**：退宿時的房間檢查標準、賠償計算方式等細節，通常會在住宿協議（Accommodation Agreement）或退宿指引中列明，建議您在入住時仔細閱讀相關文件，並在退宿前做好房間檢查準備。
+
+如有其他關於宿舍房型、費用、設施等問題，歡迎隨時查詢！","1. User asked: 各栋宿舍卫生间配置差别大吗 | Assistant replied: 根據知識庫資料，各棟宿舍的衛生間配置**確實存在明顯差別**，主要體現在以下幾個方面： ## 配置模式差異 **1. 樓層公共衛生間模式（大...
+2. User asked: 门禁卡弄丢了去哪补办 一般几天能拿到新的 晚上楼里有保安巡逻吗 大概多久会巡一次 | Assistant replied: 抱歉，目前知識庫中沒有關於門禁卡補辦流程、補辦所需時間，以及保安巡邏頻率的具體資料。 關於這些宿舍管理相關的行政和安全事宜，建議您直接聯繫以...
+3. User asked: 每层楼灭火器放哪 紧急情况下联系谁 宿舍有24小时值班电话吗 | Assistant replied: 抱歉，目前知識庫中沒有關於以下資訊的具體資料： - **滅火器位置**：每層樓滅火器的具體擺放位置 - **緊急聯絡方式**：緊急情況下應聯...","The student is highly concerned about safety and emergency preparedness, suggesting a preference for a dormitory with clear security protocols, 24-hour support, and well-communicated safety features.",15,20,20,10,10,75,严重错误x3:知识库有信息但Bot声明无资料(提前入住/钥匙领取/家具检查流程各-10);轻微错误:邮箱笔误shrlo@ust.hk应为shrloinfo@ust.hk(-5),"{""事实准确性"": {""核心数据准确性"": {""0/25"": ""严重-10:知识库L16有提前入住信息(offer首日10:00后,不接受提前)但Bot声明无资料; 严重-10:知识库L37-39有钥匙领取信息(本人现场领取)但Bot声明无资料; 严重-10:知识库L40有家具检查流程(Inventory List+7天申报)但Bot声明无资料; 轻微-5:邮箱笔误shrlo@ust.hk→shrloinfo@ust.hk""}, ""无幻觉与虚假信息"": {""10/10"": ""无""}, ""政策规则表述准确性"": {""5/5"": ""无(未涉及政策表述)""}}, ""个性化适配能力"": {""用户身份与预算适配"": {""12/12"": ""无""}, ""用户偏好适配"": {""5/5"": ""无""}, ""历史对话上下文承接"": {""3/3"": ""无""}}, ""问题解决与任务完成度"": {""提问点全覆盖"": {""15/15"": ""Bot回应了所有提问点(虽回答错误);按标准'回答错误≠完全无视',本项不重复扣分""}, ""核心诉求解决效果"": {""5/5"": ""Bot提供了SHRLO联系指引和合理建议""}}, ""合规性与边界控制"": {""无关问题拒绝能力"": {""6/6"": ""无""}, ""合规内容管控"": {""4/4"": ""无""}}, ""回答规范性与可用性"": {""Markdown格式规范性"": {""6/6"": ""无""}, ""结构清晰度与可读性"": {""4/4"": ""无""}}}","无(知识库已有完整入住/退宿流程,属Bot检索失败)"

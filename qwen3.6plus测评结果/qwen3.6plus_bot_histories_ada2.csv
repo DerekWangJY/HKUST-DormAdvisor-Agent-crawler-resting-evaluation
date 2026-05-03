@@ -1,0 +1,264 @@
+email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",单人间一个月多少钱,"根據知識庫資料，關於單人間費用，我需要先說明一個重要情況：
+
+## 新入學本地學生與單人間
+
+作為**新入學本地本科生**，您**不會被分配到單人間（Single Room）**。根據官方宿舍房型可用性矩陣，所有宿舍對新入學本地學生的 Single Room 欄位均標記為 ❌，表示不提供此房型 。
+
+單人間僅在 **Hall VII 至 Hall XIII** 設置，且**僅限在學學生**（Continuing Local 或 Continuing Non-Local）有機會獲分配。
+
+## 在學學生的單人間費用參考
+
+若您想了解未來成為在學學生後的單人間費用，以下是**在學本地生**的單人間年費：
+
+| 宿舍名稱 | 單人間年費 (HK$) | 約每月 (HK$) |
+|----------|------------------|--------------|
+| Hall VII | $34,472 | ~$3,830 |
+| Hall VIII | $35,028 | ~$3,892 |
+| Hall IX | $35,028 | ~$3,892 |
+| Hall X | $36,974 | ~$4,108 |
+| Hall XI | $36,974 | ~$4,108 |
+| Hall XII | $36,974 | ~$4,108 |
+| Hall XIII | $36,974 | ~$4,108 |
+
+> 註：宿舍費用按**學年**收取（約9個月，9月至次年6月），上述「約每月」為年費÷9的估算值，僅供參考 。
+
+## 重要提醒
+
+1. **房型無法自行選擇**：宿舍申請時，學生僅可選擇最多3個宿舍進行優先排序，房型由 SHRLO 系統根據名額和需求**隨機分配**，無法指定單人間 。
+
+2. **您的預算**：您的預算 HK$38,000+ 對於在學學生的單人間年費是足夠的（介乎 $34,472-$36,974），但作為新入學學生，您首年不會獲分配單人間。
+
+3. **首年住宿選擇**：新入學本地學生可獲分配的房型包括 Double Room、Triple Room 或 Bunk Bed Room（視乎宿舍），年費介乎 $15,012 至 $25,576 不等 。
+
+4. **設施查詢**：關於健身房和24小時安保服務，建議您直接向 Student Housing Office 查詢各宿舍的具體設施配置。
+
+如有其他疑問，歡迎隨時查詢！",,,40,17,20,10,10,97,偏好适配：首轮未结合海景/安静/设施偏好（-3分）,"{""事实准确性"": {""核心数据准确性"": ""25/25"", ""无幻觉与虚假信息"": ""10/10"", ""政策规则表述准确性"": ""5/5""}, ""个性化适配能力"": {""用户身份与预算适配"": ""12/12"", ""用户偏好适配"": ""2/5（-3分：完全未提及用户偏好）"", ""历史对话上下文承接"": ""3/3""}, ""问题解决与任务完成度"": {""提问点全覆盖"": ""15/15"", ""核心诉求解决效果"": ""5/5""}, ""合规性与边界控制"": {""无关问题拒绝能力"": ""6/6"", ""合规内容管控"": ""4/4""}, ""回答规范性与可用性"": {""Markdown格式规范性"": ""6/6"", ""结构清晰度与可读性"": ""4/4""}}",无
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",哪栋宿舍能看到海景,"根據知識庫資料，以下宿舍可以看到海景：
+
+## 海景宿舍一覽
+
+| 宿舍名稱 | 海景特點 | 備註 |
+|----------|----------|------|
+| Hall VIII | 坐享絕佳海景，一側房間為海景，另一側為山景 | 位於山腳近海，景觀宜人 |
+| Hall IX | 絕佳海景，部分房間為海景房 | 位於山腳，靠近海邊設施 |
+| Hall III | 房間有超大窗戶可看海景，Common Room有海景落地窗 | 被評為科大景觀最好的宿舍之一 |
+| Hall VII | 正面可看到科大海景與泳池 | 地理位置適中，海景優美 |
+| Hall VI | 陽台和Common Room都能看到美麗海景 | 高樓層無噪音干擾 |
+| Hall IV | 朝海一面坐擁無敵海景，部分房間有海景 | Common Room基本面海 |
+| Hall I | 樓層稍高的海景房有遼闊海景 | 海拔最高，可俯瞰清水灣 |
+| Hall V | 一半房間為海景，另一半為山景 | 位於山路上 |
+| Hall II | 房間有山景和海景兩種選擇 | Common Room均面向大海 |
+
+## 結合您的需求建議
+
+根據您提出的優先考慮因素（海景、設施、安靜）以及希望配備健身房和24小時安保服務，以下宿舍較為適合：
+
+**Hall VIII / Hall IX**
+- ✅ 絕佳海景
+- ✅ 附近2分鐘路程有海邊健身房
+- ✅ 整體環境安靜
+- ✅ 設施較新（i Village建成前最新宿舍）
+- ✅ 專為住戶服務的24小時自習室
+
+**Hall VII**
+- ✅ 海景優美
+- ✅ 保安管理嚴格，進門查驗規範
+- ✅ 安靜舒適，無Hall莊
+- ✅ 設施齊全，每層有自習室
+
+**Hall III**
+- ✅ 無敵海景，景觀最佳
+- ✅ 安靜，遠離教學區和聚會喧囂
+- ✅ 各樓層配有健身器材、乒乓球台等設施
+
+## ⚠️ 重要提醒
+
+作為**新入學本地本科生**，您需要留意：
+
+1. **房型分配**：您不會被分配到單人房（Single Room）。新入學學生的官方費用表中未列出Single Room收費，房型由SHRLO系統隨機分配。
+
+2. **申請方式**：申請時您只能選擇最多3個宿舍進行優先排序，無法指定房型或保證獲得海景房。
+
+3. **費用預算**：您的預算HK$38,000+對於新入學本地生來說，可負擔大部分宿舍的雙人房或三人房費用。
+
+4. **截止日期**：請密切留意SHRLO官方電郵通知的宿舍申請截止日期，以免遺漏。
+
+如果您需要查詢具體宿舍的費用詳情，歡迎告訴我您想了解的宿舍名稱！",1. User asked: 单人间一个月多少钱 | Assistant replied: 根據知識庫資料，關於單人間費用，我需要先說明一個重要情況： ## 新入學本地學生與單人間 作為**新入學本地本科生**，您**不會被分配到單...,,40,20,20,10,10,100,无,无,无
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",各栋宿舍晚上安静程度差别大吗,"各棟宿舍在晚上的安靜程度確實有差別，根據宿舍評價資料，以下是各宿舍的安靜情況：
+
+## 安靜程度較高的宿舍
+
+| 宿舍名稱 | 安靜特點 | 相關說明 |
+|----------|----------|----------|
+| Hall III | 非常安靜 | 遠離教學區和半夜聚會喧囂，晚上可聽海浪聲入睡，宿管會主動提醒噪音問題 |
+| Hall VIII | 較為安靜舒適 | 每兩間房為套間，自帶衛浴，走廊行人少，有專屬自習室環境清靜 |
+| Hall IX | 整體環境非常安靜 | 宿管親切，房間設施新，生活環境寧靜 |
+| Hall VII | 環境相對安靜 | 靠海且離學術大樓有距離，沒有Hall莊辦活動，較少喧鬧 |
+| Hall II | 比較安靜 | 宿舍男女分層，整體設施較新 |
+
+## 結合您的優先考慮因素
+
+根據您提出的需求（**海景、設施、安靜、健身房**），以下宿舍較為適合：
+
+- **Hall III**：無敵海景 + 非常安靜 + 各樓層有健身器材，但離教學區較遠
+- **Hall VIII**：海景/山景可選 + 安靜舒適 + 附近2分鐘路程有海邊健身房，但離教學樓和餐廳較遠
+- **Hall IX**：非常安靜 + 海景房風景優美 + 設施新，但Common Room較小
+
+## 重要提醒
+
+作為**新入學本地本科生**，您需要留意：
+- 您**不會被分配到單人間**，房型由SHRLO系統隨機分配
+- 宿舍申請時僅可選擇最多3個宿舍進行優先排序，無法指定房型
+- 建議將Hall III、Hall VIII、Hall IX列為優先選擇，以符合您對安靜和海景的需求
+
+如需了解更多宿舍設施或申請詳情，歡迎繼續查詢。","1. User asked: 单人间一个月多少钱 | Assistant replied: 根據知識庫資料，關於單人間費用，我需要先說明一個重要情況： ## 新入學本地學生與單人間 作為**新入學本地本科生**，您**不會被分配到單...
+2. User asked: 哪栋宿舍能看到海景 | Assistant replied: 根據知識庫資料，以下宿舍可以看到海景： ## 海景宿舍一覽 ## 結合您的需求建議 根據您提出的優先考慮因素（海景、設施、安靜）以及希望配備...",,40,20,20,10,10,100,无,无,无
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",洗衣房洗衣服怎么收费,"根據宿舍生活服務資料，洗衣房的收費如下：
+
+## 洗衣費用
+
+| 服務類型 | 收費 (HK$) |
+|----------|------------|
+| 洗衣（提供洗衣液） | $9 |
+| 洗衣（不提供洗衣液） | $8 |
+| 烘乾機 | $1.25 / 5 分鐘 |
+
+## 付款方式
+
+宿舍洗衣系統支援多種電子付款方式，包括：
+- 銀聯（China UnionPay）
+- Visa、Mastercard
+- 轉數快（FPS）
+- 微信支付（WeChat Pay）
+- 支付寶（Alipay）
+
+您可透過桌面網頁、手機網頁或 HKUST Student App 購買洗衣服務的 QR 碼票券。
+
+## 洗衣房位置
+
+- **Hall I**：位於 SKCC Hall 停車場旁
+- **Hall II**：2 樓
+- **Hall III–IX**：地下（G/F）
+
+每間洗衣房均配備洗衣機、烘乾機和磅秤。
+
+## 使用提示
+
+- 建議首次使用前先到各宿舍櫃檯查詢詳細操作說明
+- 可透過系統預先充值信用額
+- 如需協助，可聯絡各宿舍櫃檯","1. User asked: 单人间一个月多少钱 | Assistant replied: 根據知識庫資料，關於單人間費用，我需要先說明一個重要情況： ## 新入學本地學生與單人間 作為**新入學本地本科生**，您**不會被分配到單...
+2. User asked: 哪栋宿舍能看到海景 | Assistant replied: 根據知識庫資料，以下宿舍可以看到海景： ## 海景宿舍一覽 ## 結合您的需求建議 根據您提出的優先考慮因素（海景、設施、安靜）以及希望配備...
+3. User asked: 各栋宿舍晚上安静程度差别大吗 | Assistant replied: 各棟宿舍在晚上的安靜程度確實有差別，根據宿舍評價資料，以下是各宿舍的安靜情況： ## 安靜程度較高的宿舍 ## 結合您的優先考慮因素 根據您...","The student prioritizes quietness and sea views over social life or convenience, and is willing to accept shared rooms as a new student, but shows strong interest in halls with premium facilities like gyms and 24-hour study rooms.",40,20,20,10,10,100,无,无,无
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",宿舍网络怎么申请,"抱歉，目前知識庫中沒有關於宿舍網絡申請流程的相關資訊。
+
+建議您直接聯繫 **Student Housing Office** 或 **ITSC（資訊科技服務處）** 查詢宿舍網絡服務的申請步驟、賬戶設置及相關費用。通常宿舍網絡服務會在入住時由宿舍管理處提供詳細指引，或可於 HKUST 官方網站查詢相關資訊。","1. User asked: 哪栋宿舍能看到海景 | Assistant replied: 根據知識庫資料，以下宿舍可以看到海景： ## 海景宿舍一覽 ## 結合您的需求建議 根據您提出的優先考慮因素（海景、設施、安靜）以及希望配備...
+2. User asked: 各栋宿舍晚上安静程度差别大吗 | Assistant replied: 各棟宿舍在晚上的安靜程度確實有差別，根據宿舍評價資料，以下是各宿舍的安靜情況： ## 安靜程度較高的宿舍 ## 結合您的優先考慮因素 根據您...
+3. User asked: 洗衣房洗衣服怎么收费 | Assistant replied: 根據宿舍生活服務資料，洗衣房的收費如下： ## 洗衣費用 ## 付款方式 宿舍洗衣系統支援多種電子付款方式，包括： - 銀聯（China U...","The student prioritizes quietness and sea views over social life or convenience, and is willing to accept shared rooms as a new student, but shows strong interest in halls with premium facilities like gyms and 24-hour study rooms.",40,20,20,10,10,100,无,无,宿舍网络申请流程
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",宿舍楼报修后师傅来得快慢差别大吗,"根據知識庫資料，關於宿舍報修服務，目前有以下資訊：
+
+## 報修流程
+如發現房間內有任何損壞或缺陷，您可以透過以下方式報修：
+- **網上填寫**：完成損壞報告表格（defect report form）
+- **直接報告**：前往宿舍辦公室（Hall Office）直接申報
+
+維修和保養服務會在收到您的請求後安排進行。
+
+## 關於響應時間
+抱歉，目前知識庫中**沒有關於各棟宿舍維修師傅響應時間快慢差異**的具體資料，也未有不同宿舍樓之間維修服務效率的比較信息。
+
+## 建議
+由於維修響應時間可能受以下因素影響：
+- 各宿舍辦公室的運作安排
+- 維修人員的當值情況
+- 報修問題的緊急程度
+- 学期期間或假期時段
+
+建議您：
+1. **入住後向所屬宿舍的 Hall Office 查詢**具體的維修響應時間
+2. **緊急情況**可直接聯繫宿舍辦公室尋求即時協助
+3. 可向**師兄師姐或宿生會**了解實際體驗和評價
+
+⚠️ **提醒**：報修時請盡量詳細描述問題，如有照片可一併提交，有助維修人員準備合適工具並加快處理速度。","1. User asked: 各栋宿舍晚上安静程度差别大吗 | Assistant replied: 各棟宿舍在晚上的安靜程度確實有差別，根據宿舍評價資料，以下是各宿舍的安靜情況： ## 安靜程度較高的宿舍 ## 結合您的優先考慮因素 根據您...
+2. User asked: 洗衣房洗衣服怎么收费 | Assistant replied: 根據宿舍生活服務資料，洗衣房的收費如下： ## 洗衣費用 ## 付款方式 宿舍洗衣系統支援多種電子付款方式，包括： - 銀聯（China U...
+3. User asked: 宿舍网络怎么申请 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍網絡申請流程的相關資訊。 建議您直接聯繫 **Student Housing Office** 或 **ITS...","The student prioritizes quietness and sea views over social life or convenience, and is willing to accept shared rooms as a new student, but shows strong interest in halls with premium facilities like gyms and 24-hour study rooms.",40,20,20,10,10,100,无,无,各宿舍维修响应时间对比
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",各栋宿舍离海边散步路线远近差别明显吗,"根據知識庫資料，各棟宿舍離海邊散步路線的遠近確實有明顯差別。以下是詳細比較：
+
+| 宿舍名稱 | 與海邊距離 | 海景視野 | 周邊海邊設施 |
+|----------|------------|----------|--------------|
+| Hall VIII | 非常近，位於山腳近海 | 絕佳海景，可看到操場和網球場 | 2分鐘路程有海邊健身房，前往海邊設施十分方便 |
+| Hall IX | 非常近，位於山腳近海 | 遼闊海景，可看到操場和網球場 | 前往海邊設施十分方便 |
+| Hall VII | 很近，座落於Seafront餐廳上行山路 | 正面可見海景與泳池 | 前往海邊設施很方便 |
+| Hall VI | 較近 | 有山景和海景（海景房較少） | 與海邊操場、海邊籃球場、游泳館相距不遠 |
+| Hall IV | 較近 | 未明確提及 | 正對面就是足球場和泳池，外出運動十分方便 |
+| Hall III | 中等距離 | 房間有超大窗戶可看海景，Common Room有海景落地窗 | 樓下有花園，可吹著舒適海風 |
+| Hall II | 中等距離 | 房間有山景和海景，Common Room面向大海 | 可直接看到操場，風景極佳 |
+| Hall V | 較遠，位於山坡路 | 一半房間面向海，一半面向山 | 離海邊較遠，海邊設施較不易到達 |
+| Hall I | 最遠，海拔最高 | 較高樓層海景房可俯瞰清水灣全景 | 最靠近教學樓和圖書館，離海邊設施相對較遠 |
+
+**總結：**
+- **離海邊最近**：Hall VIII、Hall IX、Hall VII、Hall VI、Hall IV 這幾棟宿舍前往海邊散步路線都非常方便，適合喜歡海邊運動和散步的同學。
+- **中等距離**：Hall II、Hall III 也能享受海景，但需要走一小段路。
+- **相對較遠**：Hall V 和 Hall I 離海邊設施較遠，其中 Hall I 是最靠近教學區的宿舍，Hall V 則位於山坡上。
+
+**針對您的偏好建議：**
+您提到希望有海景、設施齊全且安靜的環境，Hall VIII 和 Hall IX 會是不錯的選擇：
+- 兩者都位於山腳近海，前往海邊散步路線非常方便
+- 擁有絕佳海景視野
+- Hall VIII 附近2分鐘路程有海邊健身房，符合您對健身房的需求
+- 宿舍管理較嚴格，環境相對安靜
+- 設有專為住戶服務的24小時自習室
+
+⚠️ **提醒**：宿舍申請時您只能選擇最多3個宿舍進行優先排序，房型由SHRLO系統隨機分配。作為新入學本地生，您不會被分配到Single Room，但可在Hall VIII或Hall IX被分配到Double Room。建議您將優先宿舍選擇與個人偏好（如海景、設施、安靜程度）結合考慮。","1. User asked: 洗衣房洗衣服怎么收费 | Assistant replied: 根據宿舍生活服務資料，洗衣房的收費如下： ## 洗衣費用 ## 付款方式 宿舍洗衣系統支援多種電子付款方式，包括： - 銀聯（China U...
+2. User asked: 宿舍网络怎么申请 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍網絡申請流程的相關資訊。 建議您直接聯繫 **Student Housing Office** 或 **ITS...
+3. User asked: 宿舍楼报修后师傅来得快慢差别大吗 | Assistant replied: 根據知識庫資料，關於宿舍報修服務，目前有以下資訊： ## 報修流程 如發現房間內有任何損壞或缺陷，您可以透過以下方式報修： - **網上填寫...","The student asks about repair response times across halls, showing concern for maintenance efficiency and a preference for a hall where issues are resolved quickly, indicating practical-mindedness and a desire for hassle-free living.",40,20,20,10,10,100,无,无,无
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",隔壁吵到半夜该找宿管还是hall庄 他们会主动上门管吗 警告几次会罚钱,"遇到隔壁噪音干擾到半夜的情況，建議您按以下步驟處理：
+
+**1. 首先聯繫誰？**
+- **首選：Hall Council（宿生會）或樓層導師（Hall Tutor）**
+  他們通常負責協調宿舍內的日常事務和同學間的糾紛，反應較快且更貼近學生生活。您可以先透過宿舍的通訊群組或直接聯繫樓層導師反映情況。
+- **次選：宿管（Residence Master / Residential Life Officer）**
+  如果情況嚴重或 Hall Council 無法解決，可以聯繫宿管。宿管負責處理較嚴重的違規行為和紀律問題。
+
+**2. 他們會主動上門嗎？**
+- 通常**不會主動巡邏**，需要您主動投訴。
+- 接到投訴後，導師或宿管可能會上門了解情況，或先透過電話/訊息警告噪音方。
+
+**3. 警告幾次會罰錢？**
+根據知識庫資料，違反宿舍規則（包括噪音擾民等）的學生可能會面臨以下處罰：
+- **固定罰款**：HK$500
+- **其他紀律處分**：包括但不限於終止宿舍居住資格、禁止未來申請宿舍、列入黑名單等
+- **處理流程**：紀律個案會提交給宿管（Residence Master）審議
+
+具體警告次數並無明確規定，通常取決於違規的嚴重程度和頻率。如果是屢次不改或情節嚴重，可能會直接面臨罰款或其他處分。
+
+**建議處理方式：**
+1. 先嘗試與隔壁同學友善溝通
+2. 若無效，立即聯繫樓層導師或 Hall Council
+3. 保留證據（如錄音、時間記錄）以備需要時提供
+4. 若情況持續，可向宿管正式投訴
+
+⚠️ **提醒**：每棟宿舍的具體執行細節可能略有不同，建議您入住後盡快認識樓層導師和宿管，了解該宿舍的具體投訴流程和安靜時間規定。","1. User asked: 宿舍网络怎么申请 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍網絡申請流程的相關資訊。 建議您直接聯繫 **Student Housing Office** 或 **ITS...
+2. User asked: 宿舍楼报修后师傅来得快慢差别大吗 | Assistant replied: 根據知識庫資料，關於宿舍報修服務，目前有以下資訊： ## 報修流程 如發現房間內有任何損壞或缺陷，您可以透過以下方式報修： - **網上填寫...
+3. User asked: 各栋宿舍离海边散步路线远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍離海邊散步路線的遠近確實有明顯差別。以下是詳細比較： **總結：** - **離海邊最近**：Hall VIII、H...","The student asks about repair response times across halls, showing concern for maintenance efficiency and a preference for a hall where issues are resolved quickly, indicating practical-mindedness and a desire for hassle-free living.",28,20,18,10,10,86,核心数据准确性：将访客违规罚款HK$500张冠李戴到噪音问题（-10分）；政策规则：噪音政策表述不准确（-2分）；核心诉求：未明确说明警告次数（-2分）,"{""事实准确性"": {""核心数据准确性"": ""15/25（-10分：严重错误，罚款HK$500是针对访客违规而非噪音）"", ""无幻觉与虚假信息"": ""10/10"", ""政策规则表述准确性"": ""3/5（-2分：噪音政策表述不准确）""}, ""个性化适配能力"": {""用户身份与预算适配"": ""12/12"", ""用户偏好适配"": ""5/5"", ""历史对话上下文承接"": ""3/3""}, ""问题解决与任务完成度"": {""提问点全覆盖"": ""15/15"", ""核心诉求解决效果"": ""3/5（-2分：用户问警告几次会罚钱，Bot未明确说明）""}, ""合规性与边界控制"": {""无关问题拒绝能力"": ""6/6"", ""合规内容管控"": ""4/4""}, ""回答规范性与可用性"": {""Markdown格式规范性"": ""6/6"", ""结构清晰度与可读性"": ""4/4""}}",噪音违规的具体处罚流程
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",空调供冷季从几月到几月 房间温度能自己调节吗 空调故障报修后一般多久能处理好,"抱歉，目前知識庫中沒有關於以下方面的具體資料：
+- 空調供冷季的具體月份
+- 房間溫度是否可自行調節
+- 空調故障報修後的處理時間
+
+建議您直接聯繫 **Student Housing Office** 查詢這些詳細資訊，或向您所屬宿舍的 **Hall Office** 或 **樓層導師 (Floor Tutor)** 詢問，他們能提供最準確的宿舍設施使用及維修服務資訊。
+
+您也可以在入住後留意宿舍手冊或公告，通常會載明空調開放時間、使用規則及報修流程等詳情。","1. User asked: 宿舍楼报修后师傅来得快慢差别大吗 | Assistant replied: 根據知識庫資料，關於宿舍報修服務，目前有以下資訊： ## 報修流程 如發現房間內有任何損壞或缺陷，您可以透過以下方式報修： - **網上填寫...
+2. User asked: 各栋宿舍离海边散步路线远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍離海邊散步路線的遠近確實有明顯差別。以下是詳細比較： **總結：** - **離海邊最近**：Hall VIII、H...
+3. User asked: 隔壁吵到半夜该找宿管还是hall庄 他们会主动上门管吗 警告几次会罚钱 | Assistant replied: 遇到隔壁噪音干擾到半夜的情況，建議您按以下步驟處理： **1. 首先聯繫誰？** - **首選：Hall Council（宿生會）或樓層導師...","The student asks about repair response times across halls, showing concern for maintenance efficiency and a preference for a hall where issues are resolved quickly, indicating practical-mindedness and a desire for hassle-free living.",40,20,20,10,10,100,无,无,空调供冷季/温度调节/报修时间
+ada2@gmail.com,"{'gender': 'Female', 'identity': 'New local undergraduate', 'priorities': ['Sea View', 'Facilities', 'Quiet'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 38,000+', 'additional_info': '希望宿舍配备健身房和24小时安保服务'}",房间多久有人打扫一次 公共区域清洁频率怎么样 垃圾回收时间固定吗,"抱歉，目前知識庫中沒有關於以下方面的具體資料：
+
+- 房間清潔服務的頻率（多久有人打掃一次）
+- 公共區域的清潔安排
+- 垃圾回收的固定時間
+
+建議您直接聯繫 **Student Housing Office** 或您所入住宿舍的 **Hall Management Office** 查詢詳細的清潔服務安排。通常宿舍會提供相關的手冊或指南，說明清潔服務的具體時間表和相關規定。
+
+此外，您也可以向樓層導師（Floor Tutor）或宿生會（Hall Council）查詢，他們通常會掌握這些日常運作的資訊。","1. User asked: 各栋宿舍离海边散步路线远近差别明显吗 | Assistant replied: 根據知識庫資料，各棟宿舍離海邊散步路線的遠近確實有明顯差別。以下是詳細比較： **總結：** - **離海邊最近**：Hall VIII、H...
+2. User asked: 隔壁吵到半夜该找宿管还是hall庄 他们会主动上门管吗 警告几次会罚钱 | Assistant replied: 遇到隔壁噪音干擾到半夜的情況，建議您按以下步驟處理： **1. 首先聯繫誰？** - **首選：Hall Council（宿生會）或樓層導師...
+3. User asked: 空调供冷季从几月到几月 房间温度能自己调节吗 空调故障报修后一般多久能处理好 | Assistant replied: 抱歉，目前知識庫中沒有關於以下方面的具體資料： - 空調供冷季的具體月份 - 房間溫度是否可自行調節 - 空調故障報修後的處理時間 建議您直...","The student is concerned about noise disturbances at night and wants clear enforcement procedures, indicating a strong preference for a quiet, well-managed dormitory environment with responsive staff.",40,20,20,10,10,100,无,无,房间清洁频率/公共区域清洁/垃圾回收时间

@@ -1,0 +1,199 @@
+﻿email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",入住当天几点能进房间,"根據宿舍入住程序，本科生入住時間安排如下：
+
+**最早入住時間**
+- 入住當天最早可於 **上午 10:00 後** 進入房間 
+- 任何提前入住請求將不獲受理 
+
+**宿舍辦公室開放時間**
+您需親自前往所分配宿舍的辦公室辦理入住手續，開放時間為：
+
+| 宿舍 | 開放時間 |
+|------|----------|
+| Hall I – IX | 周一至周日 8:45 – 19:00 及 19:30 – 22:00  |
+| i-Village (Hall X – XIII) | 周一至周日 8:45 – 19:00 及 19:30 – 22:00  |
+| Jockey Club Hall | 周一至周日 8:45 – 19:00 及 19:30 – 22:00  |
+
+**入住流程提醒**
+1. **抵達前**：請先完成線上入住登記，提交後會收到確認電郵 
+2. **抵達宿舍辦公室**：必須本人親自辦理，不可由他人代辦 
+3. **所需文件**：出示學生證（新生可用護照等身份證明文件）及預登記確認電郵 
+4. **檢查房間**：入住後 7 天內需完成房間物品狀況檢查並回報任何問題 
+
+**重要注意事項**
+- 如無法在宿舍提供期限開始後 7 天內入住，必須提前電郵通知宿舍辦公室及 ughousing@ust.hk，否則宿舍資格可能被取消 
+- 具體入住宿舍日期請參考 SHRLO 發出的宿舍錄取通知電郵",,,40,20,20,10,10,100,无,无,无
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍阳台光线差别大吗,"關於各棟宿舍陽台光線的差別，目前知識庫中沒有詳細記錄各宿舍陽台朝向、採光條件的系統性資料。
+
+根據現有資料，僅 **Hall III** 明確提及設有**露天陽台**設施，且該宿舍因遠離教學區，環境較為安靜，部分房間可享受海景和朝陽。
+
+至於其他宿舍（Hall I、II、IV、V、VI、VII、VIII、IX、X、XI、XII、XIII、JCH）是否設有陽台、陽台朝向及光線條件，知識庫中暫無相關記載。
+
+---
+
+**給您的補充建議：**
+
+由於您希望有陽台或窗台空間種植綠植，建議您：
+
+1. **聯絡宿舍管理處**：直接電郵或致電各宿舍的 Hall Office，查詢房間是否有陽台、窗台大小及朝向
+2. **參觀宿舍**：如有機會，可預約參觀不同宿舍的房間樣本，親身了解採光情況
+3. **窗台替代方案**：即使房間沒有陽台，大部分宿舍房間均設有窗戶，窗台空間通常也可放置小型盆栽
+
+⚠️ **重要提醒**：
+- 宿舍房型（包括是否有陽台）由 SHRLO 系統隨機分配，學生無法在申請時指定
+- 作為新入學非本地生，您不會被分配到 Single Room，主要房型為 Double Room 或 Triple Room
+- 建議優先考慮環境安靜、設施完善的宿舍，如 Hall III 等
+
+如需查詢特定宿舍的詳細設施或費用資訊，歡迎告訴我您想了解的宿舍名稱。",1. User asked: 入住当天几点能进房间 | Assistant replied: 根據宿舍入住程序，本科生入住時間安排如下： **最早入住時間** - 入住當天最早可於 **上午 10:00 後** 進入房間 - 任何提前...,,40,20,20,10,10,100,无,无,无
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍楼周边绿化环境差别明显吗,"根據知識庫中的宿舍評價資料，各棟宿舍周邊的綠化環境和景觀確實存在差別，但知識庫中沒有系統性地記錄所有宿舍的綠化詳情。以下是現有資料中提及的各宿舍周邊環境：
+
+## 各宿舍周邊環境概況
+
+| 宿舍名稱 | 周邊環境特點 | 景觀類型 |
+|----------|--------------|----------|
+| Hall III | 樓下有花園，遠離教學區和蚊池，環境安靜 | 海景/山景，被列為科大景觀最好的宿舍之一 |
+| Hall VIII | 位於山腳近海，一側山景一側海景，可看到操場和網球場 | 海景/山景 |
+| Hall IX | 位於山腳，有絕佳海景，近海邊設施 | 海景 |
+| Hall II | 處於住宿區中心，靠近餐廳、超市、體育館等生活設施 | 生活便利，自然景觀描述較少 |
+
+## 主要差別
+
+**靠近自然景觀的宿舍**：
+- **Hall III、VIII、IX** 均靠近海邊，享有海景或山景，其中 Hall III 特別提及樓下有花園，Common Room 有海景落地窗 。
+- Hall VIII 和 IX 附近 2 分鐘路程有海邊健身房，環境較為清靜 。
+
+**位於住宿區中心的宿舍**：
+- **Hall II** 位置居中，交通便利，靠近各種生活設施，但知識庫中未特別描述其綠化環境 。
+
+## 關於種植绿植的需求
+
+知識庫中沒有詳細記錄各宿舍陽台或窗台空間的具體尺寸和是否適合種植绿植的資訊。之前查詢結果顯示，僅 **Hall III** 明確提及設有露天陽台，其他宿舍的陽台情況未有系統性記錄 。
+
+## 建議
+
+由於知識庫中關於綠化環境和陽台空間的資訊有限，建議您：
+1. 實地參觀各棟宿舍，親自觀察周邊綠化和房間窗台/陽台空間
+2. 聯繫 Student Housing Office 查詢更詳細的房間結構資訊
+3. 在申請時可將 Hall III、VIII、IX 列為優先選擇，這些宿舍周邊自然景觀較好
+
+⚠️ **提醒**：作為新入學非本地生，您不會被分配到 Single Room，房型由 SHRLO 系統隨機分配。Hall III、VIII、IX 均設有 Double Room，新入學非本地生有機會獲分配，年費需查閱最新費用矩陣。","1. User asked: 入住当天几点能进房间 | Assistant replied: 根據宿舍入住程序，本科生入住時間安排如下： **最早入住時間** - 入住當天最早可於 **上午 10:00 後** 進入房間 - 任何提前...
+2. User asked: 各栋宿舍阳台光线差别大吗 | Assistant replied: 關於各棟宿舍陽台光線的差別，目前知識庫中沒有詳細記錄各宿舍陽台朝向、採光條件的系統性資料。 根據現有資料，僅 **Hall III** 明確...",,40,20,20,10,10,100,无,无,无
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍楼回收站设置位置差别明显吗,"抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓回收站設置位置的詳細資料。
+
+關於宿舍廢物回收設施的具體位置（如回收站、分類垃圾桶等），各棟宿舍可能根據建築設計和空間規劃有所不同，但現有資料未提供這方面的系統性比較。
+
+**建議查詢方式：**
+- 直接向 **Student Housing and Residential Life Office (SHRLO)** 查詢
+- 聯絡您感興趣宿舍的宿舍辦公室或樓層導師
+- 入住後查看宿舍內的設施指引圖或諮詢宿生會
+
+**辦公資訊：**
+- 地址：G/F, UG Hall II, HKUST, Clear Water Bay, Kowloon, Hong Kong
+
+由於您重視環保和綠化種植，建議在參觀宿舍或入住時，順便了解該宿舍的回收設施位置及綠化空間（如陽台、窗台）是否適合放置盆栽，這兩項資訊對於您的居住體驗都很重要。","1. User asked: 入住当天几点能进房间 | Assistant replied: 根據宿舍入住程序，本科生入住時間安排如下： **最早入住時間** - 入住當天最早可於 **上午 10:00 後** 進入房間 - 任何提前...
+2. User asked: 各栋宿舍阳台光线差别大吗 | Assistant replied: 關於各棟宿舍陽台光線的差別，目前知識庫中沒有詳細記錄各宿舍陽台朝向、採光條件的系統性資料。 根據現有資料，僅 **Hall III** 明確...
+3. User asked: 各栋宿舍楼周边绿化环境差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，各棟宿舍周邊的綠化環境和景觀確實存在差別，但知識庫中沒有系統性地記錄所有宿舍的綠化詳情。以下是現有資料中提及的各...","The student values natural light, greenery, and outdoor space for hobbies like planting, and prefers quieter halls with scenic views such as Hall III, VIII, or IX.",40,20,20,10,10,100,无,无,各宿舍回收站设置位置
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍楼低楼层房间数量差别大吗,"抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓低樓層房間數量的詳細資料。
+
+關於各宿舍樓層房間數量的具體數據（如每層房間數、低樓層與高樓層的房間數量差異等），知識庫中沒有相關記錄。這類建築結構細節通常不會在宿舍介紹或評價資料中詳細說明。
+
+**建議您：**
+- 如需了解特定宿舍的樓層房間分布，可直接聯繫該宿舍的宿舍辦公室查詢
+- 或參考 SHRLO（Student Housing and Residential Life Office）官方提供的宿舍平面圖（如有）
+- 也可向已入住的學兄學姐了解實際體驗
+
+如果您有其他關於宿舍費用、房型、設施或申請政策的問題，我很樂意為您查詢知識庫中的相關資訊。","1. User asked: 各栋宿舍阳台光线差别大吗 | Assistant replied: 關於各棟宿舍陽台光線的差別，目前知識庫中沒有詳細記錄各宿舍陽台朝向、採光條件的系統性資料。 根據現有資料，僅 **Hall III** 明確...
+2. User asked: 各栋宿舍楼周边绿化环境差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，各棟宿舍周邊的綠化環境和景觀確實存在差別，但知識庫中沒有系統性地記錄所有宿舍的綠化詳情。以下是現有資料中提及的各...
+3. User asked: 各栋宿舍楼回收站设置位置差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓回收站設置位置的詳細資料。 關於宿舍廢物回收設施的具體位置（如回收站、分類垃圾桶等），各棟宿舍可能...","The student values natural light, greenery, and outdoor space for hobbies like planting, and prefers quieter halls with scenic views such as Hall III, VIII, or IX.",40,20,20,10,10,100,无,无,各宿舍低楼层房间数量
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍楼晾晒衣服方便程度差别大吗,"抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓晾曬衣服設施的詳細資料。
+
+關於宿舍晾曬衣服的具體情況（如是否有專用晾衣區、晾衣架數量、是否允許在陽台或窗外晾曬、公共晾衣空間的位置等），各棟宿舍可能有不同的安排，但這些資訊並未在知識庫中完整記錄。
+
+**一般建議：**
+- 香港科技大學宿舍通常設有公共洗衣房（Laundry Room），部分宿舍可能配備公共晾衣區
+- 由於香港氣候潮濕，許多學生會使用烘乾機或在室內晾曬
+- 您提到希望房間有陽台或窗台空間用於種植綠植，但需注意：
+  - **新入學非本地生**不會被分配到 Single Room，主要可獲分配的是 Double Room 或 Triple Room
+  - 根據您的預算（HK$ 20,000 - 26,000），可查詢符合預算的房型
+
+**建議查詢方式：**
+如需了解各棟宿舍晾曬設施的具體情況，建議：
+1. 聯繫 Student Housing Office 查詢
+2. 向已入住的師兄師姐了解實際使用經驗
+3. 參觀宿舍時實地觀察公共晾衣空間
+
+如果您需要查詢符合您預算和身份的宿舍房型及費用，我可以為您提供相關資訊。","1. User asked: 各栋宿舍楼周边绿化环境差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，各棟宿舍周邊的綠化環境和景觀確實存在差別，但知識庫中沒有系統性地記錄所有宿舍的綠化詳情。以下是現有資料中提及的各...
+2. User asked: 各栋宿舍楼回收站设置位置差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓回收站設置位置的詳細資料。 關於宿舍廢物回收設施的具體位置（如回收站、分類垃圾桶等），各棟宿舍可能...
+3. User asked: 各栋宿舍楼低楼层房间数量差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓低樓層房間數量的詳細資料。 關於各宿舍樓層房間數量的具體數據（如每層房間數、低樓層與高樓層的房間數...","The student values natural light, greenery, and outdoor space for hobbies like planting, and prefers quieter halls with scenic views such as Hall III, VIII, or IX.",40,20,20,10,10,100,无,无,各宿舍晾晒衣服设施
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍楼公共区域通风效果差别大吗,"抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓公共區域通風效果的詳細資料。
+
+關於宿舍公共區域的通風情況（如空氣流通程度、通風系統設計、窗戶配置等），各棟宿舍可能因建築設計、樓齡、朝向等因素而有所不同，但這些具體資訊並未在官方宿舍資料中詳細記錄。
+
+建議您可以：
+- **參觀宿舍開放日**：親身感受各宿舍的通風情況
+- **聯繫舍監或樓層導師**：他們最了解所屬宿舍的實際環境
+- **諮詢住宿過的學長學姐**：獲取實際居住體驗分享
+- **聯絡 Student Housing Office**：查詢是否有相關建築資料
+
+由於您重視居住環境的安靜與設施完善，建議在選擇宿舍優先次序時，可同時考慮宿舍的樓齡、位置（是否靠近主要道路）、以及周邊環境等因素，這些都會影響通風和整體居住體驗。","1. User asked: 各栋宿舍楼回收站设置位置差别明显吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓回收站設置位置的詳細資料。 關於宿舍廢物回收設施的具體位置（如回收站、分類垃圾桶等），各棟宿舍可能...
+2. User asked: 各栋宿舍楼低楼层房间数量差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓低樓層房間數量的詳細資料。 關於各宿舍樓層房間數量的具體數據（如每層房間數、低樓層與高樓層的房間數...
+3. User asked: 各栋宿舍楼晾晒衣服方便程度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓晾曬衣服設施的詳細資料。 關於宿舍晾曬衣服的具體情況（如是否有專用晾衣區、晾衣架數量、是否允許在陽...","The student is environmentally conscious and values practical living details like recycling access and laundry drying facilities, suggesting a preference for a well-equipped hall with good utility infrastructure.",40,20,20,10,10,100,无,无,各宿舍公共区域通风效果
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",各栋宿舍公共区域空调开放时间一样吗 温度差别大吗,"抱歉，目前知識庫中沒有系統性記錄各棟宿舍公共區域空調開放時間及溫度設定的詳細資料。
+
+關於宿舍公共區域（如走廊、休息室、洗衣房等）的空調情況，包括：
+- 各宿舍空調開放時間是否統一
+- 溫度設定標準及差異
+- 季節性調整政策
+- 不同宿舍的空調系統類型
+
+這些具體資訊在現有知識庫中未有記載。由於各棟宿舍的建築設計、空調系統及管理规定可能有所不同，建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 查詢各宿舍的具體空調安排。
+
+**聯絡方式：**
+- 辦公時間：星期一至五 上午 8:45 - 中午 12:45，下午 2:00 - 5:30（星期六及公眾假期休息）
+- 可透過電郵或親臨查詢
+
+如您有其他宿舍相關問題（如房型、費用、設施配置等），我很樂意為您查詢知識庫中的資料。","1. User asked: 各栋宿舍楼低楼层房间数量差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓低樓層房間數量的詳細資料。 關於各宿舍樓層房間數量的具體數據（如每層房間數、低樓層與高樓層的房間數...
+2. User asked: 各栋宿舍楼晾晒衣服方便程度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓晾曬衣服設施的詳細資料。 關於宿舍晾曬衣服的具體情況（如是否有專用晾衣區、晾衣架數量、是否允許在陽...
+3. User asked: 各栋宿舍楼公共区域通风效果差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓公共區域通風效果的詳細資料。 關於宿舍公共區域的通風情況（如空氣流通程度、通風系統設計、窗戶配置等...","The student is environmentally conscious and values practical living details like recycling access and laundry drying facilities, suggesting a preference for a well-equipped hall with good utility infrastructure.",40,20,20,10,10,100,无,无,各宿舍公共区域空调开放时间及温度设定
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",洗衣房晚上几点关门 烘干机数量够不够用 衣服洗完后多久没人拿会被清理,"抱歉，目前知識庫中沒有記錄各棟宿舍洗衣房的**具體開放時間**（如晚上幾點關門）以及**衣服洗完后多久無人拿取會被清理**的規定。
+
+關於您關心的洗衣房設施情況，現有資料如下：
+
+**洗衣機與烘干機數量**
+不同宿舍樓的洗衣房設備數量有所不同：
+- **Hall VIII 及 Hall IX**（共用洗衣房）：配備 10 台洗衣機和 10 台烘干機。
+- **Hall II**：配備 5 台洗衣機和 5 台烘干機。
+- **Hall III**：配備 6 台洗衣機和 6 台烘干機。
+- **Hall V**：配備 5 台洗衣機和 5 台烘干機。
+所有設備均需使用智能卡或硬幣操作。
+
+**建議**
+由於洗衣房的具體開放時間（部分宿舍可能為 24 小時，部分可能有時間限制）以及衣物滯留清理政策未在知識庫中詳細列出，建議您：
+1. 入住後查看宿舍大堂或洗衣房內的告示。
+2. 向所屬宿舍的樓層導師（Floor Tutor）或舍監（Warden）查詢具體規定。
+3. 參考入住時派發的宿舍手冊（Hall Handbook）。","1. User asked: 各栋宿舍楼晾晒衣服方便程度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓晾曬衣服設施的詳細資料。 關於宿舍晾曬衣服的具體情況（如是否有專用晾衣區、晾衣架數量、是否允許在陽...
+2. User asked: 各栋宿舍楼公共区域通风效果差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓公共區域通風效果的詳細資料。 關於宿舍公共區域的通風情況（如空氣流通程度、通風系統設計、窗戶配置等...
+3. User asked: 各栋宿舍公共区域空调开放时间一样吗 温度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍公共區域空調開放時間及溫度設定的詳細資料。 關於宿舍公共區域（如走廊、休息室、洗衣房等）的空調情況，...","The student is environmentally conscious and values practical living details like recycling access and laundry drying facilities, suggesting a preference for a well-equipped hall with good utility infrastructure.",40,20,20,10,10,100,无,无,洗衣房具体开放时间、衣物滞留清理政策
+iedB@gmail.com,"{'gender': 'Female', 'identity': 'New non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Price'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 20,000 - 26,000', 'additional_info': '希望房间有阳台或窗台空间用于种植绿植'}",祈祷室具体在哪栋楼 使用要提前登记吗 不同宗教活动时间冲突怎么处理,"根據知識庫資料，關於祈禱室的資訊如下：
+
+**祈禱室位置**
+祈禱室（Reflection Room）位於 **UG Hall IX 的 UG/F（地下樓層）**，供所有信仰的學生進行祈禱和冥想使用。
+
+**使用登記要求**
+是的，使用祈禱室**需要提前登記**：
+- 需填寫登記表格
+- 將表格電郵至 `ughix@ust.hk`
+- 申請後約 **3 個工作天** 內會收到確認電郵
+
+**開放時間**
+祈禱室於 **2025 年 8 月 28 日至 2026 年 6 月 2 日期間 24 小時開放**。
+
+**關於不同宗教活動時間衝突的處理**
+抱歉，目前知識庫中**沒有記錄**關於不同宗教活動時間衝突時的具體處理機制或協調方式。建議您：
+- 直接聯絡 UG Hall IX 宿舍辦公室查詢（電郵：`ughix@ust.hk`）
+- 或聯絡 Student Housing and Residential Life Office (SHRLO) 查詢相關安排
+
+**溫馨提醒**
+由於祈禱室需提前登記且確認需時 3 個工作天，建議您盡早提交申請，特別是如果您有固定的宗教活動時間安排，可提前與宿舍管理方溝通協調。","1. User asked: 各栋宿舍楼公共区域通风效果差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍樓公共區域通風效果的詳細資料。 關於宿舍公共區域的通風情況（如空氣流通程度、通風系統設計、窗戶配置等...
+2. User asked: 各栋宿舍公共区域空调开放时间一样吗 温度差别大吗 | Assistant replied: 抱歉，目前知識庫中沒有系統性記錄各棟宿舍公共區域空調開放時間及溫度設定的詳細資料。 關於宿舍公共區域（如走廊、休息室、洗衣房等）的空調情況，...
+3. User asked: 洗衣房晚上几点关门 烘干机数量够不够用 衣服洗完后多久没人拿会被清理 | Assistant replied: 抱歉，目前知識庫中沒有記錄各棟宿舍洗衣房的**具體開放時間**（如晚上幾點關門）以及**衣服洗完后多久無人拿取會被清理**的規定。 關於您關...","The student is concerned about practical daily conveniences like laundry access and air conditioning, suggesting they value functional, hassle-free living conditions and may prefer halls with 24-hour facilities and ample equipment.",40,20,20,10,10,100,无,无,不同宗教活动时间冲突处理机制

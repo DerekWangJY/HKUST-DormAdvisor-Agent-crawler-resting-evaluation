@@ -1,0 +1,283 @@
+﻿email,form_preferences,question,bot_answer,history,inferred_preferences,事实准确性,个性化适配能力,问题解决与任务完成度,合规性与边界控制,回答规范性与可用性,最终总分,扣分点,详细扣分细项,知识库缺失资料备注
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",不同宿舍楼之间学习氛围差别明显吗,"根據知識庫中的宿舍評價資料，不同宿舍樓之間的學習氛圍確實存在差異，主要體現在以下幾個方面：
+
+## 各宿舍學習環境特點
+
+| 宿舍名稱 | 安靜程度 | 學習設施 | 地理位置 | 適合人群 |
+|----------|----------|----------|----------|----------|
+| Hall II | 較安靜（男女分層） | 設施較新 | 住宿區中心，交通便利 | 喜歡便利位置的學生 |
+| Hall VII | 相對安靜（無Hall莊活動） | 有自習室、音樂房 | 靠海，離學術大樓有距離 | 國際生、喜歡安靜環境者 |
+| Hall VIII | 較安靜（套間設計，走廊行人少） | 有專屬自習室 | 離教學樓較遠，近CF餐廳 | 追求清靜學習環境者 |
+
+## 詳細分析
+
+**Hall II**：
+- 位於學校住宿區中心，交通極為便利
+- 男女分層管理，整體比較安靜
+- 設施較新，向上可快速到達餐廳、超市，向下可達體育設施
+- 適合需要便利生活條件的學生
+
+**Hall VII**：
+- 因有大量國際生入住，被稱為「留學生宿舍」
+- 沒有Hall莊辦活動，環境相對安靜
+- 設有自習室、音樂房等學習設施
+- 靠海而離學術大樓有一定距離，適合喜歡獨立空間的學生
+
+**Hall VIII**：
+- 每兩間房為一個套間，每個套間有獨立衛生間和浴室
+- 走廊行人較少，更加安靜
+- 擁有專屬於Hall VIII和Hall IX居民的自習室，能在清靜環境下學習
+- 離教學樓、餐廳及超市較遠，但近CF餐廳
+
+## 針對您的情況建議
+
+作為在學非本地生，您有資格在 Hall VII–XIII 被分配到 Single Room。根據您對「安靜、設施、便利性」的優先考慮：
+
+- **若優先安靜**：Hall VIII 的套間設計和專屬自習室最適合
+- **若優先便利**：Hall II 位於住宿區中心，交通最方便
+- **若偏好國際化環境**：Hall VII 有大量國際生，設施新且安靜
+
+⚠️ **提醒**：宿舍房型由 SHRLO 系統隨機分配，學生無法指定房型。您只能選擇最多 3 個宿舍進行優先排序投遞。建議您根據個人偏好選擇合適的宿舍進行申請。",,,40,20,20,10,10,100,无,无,无
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",退宿手续在哪里办理,"退宿手續需要在您所住宿舍的 **宿舍辦公室（Hall Office）或管理處（Management Office）** 親自辦理 。
+
+## 退宿辦理要點
+
+**辦理地點**：您所住宿舍的 Hall Office / Management Office
+
+**必須完成的步驟**：
+- 親自歸還房間鑰匙／門卡及其鑰匙套
+- 親自簽署退宿記錄（Check-out Record）
+
+**截止時間**：退宿當日中午 12 點前
+
+**重要提醒**：
+- 如未能於截止日期前搬離，宿舍職員將清理房間內所有物品，大學及宿舍管理處不對任何財物損失負責 
+- 逾期退宿將被徵收每晚 HK$100 的固定罰款，並需按日繳付宿舍費用 
+- 如未簽署退宿記錄或未歸還鑰匙／門卡，將被視為尚未退宿，逾期罰款會持續計算直至完成手續 
+- 遺失鑰匙每把罰款 HK$100，遺失鑰匙套每個罰款 HK$10 
+- 不接受延期退宿申請 
+
+建議您在退宿前留意學生宿舍及生活事務處（SHRLO）發送的「退宿提醒」電郵，並預留充足時間完成手續。如有特殊情況，建議提前與所住宿舍的辦公室聯繫查詢。",1. User asked: 不同宿舍楼之间学习氛围差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，不同宿舍樓之間的學習氛圍確實存在差異，主要體現在以下幾個方面： ## 各宿舍學習環境特點 ## 詳細分析 **H...,,40,20,20,10,10,100,无,无,无
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",访客白天来宿舍需要登记吗,"是的，**白天來訪的訪客也需要登記**。
+
+根據宿舍安全規定，白天訪客的主要要求如下：
+
+- **訪客時間**：上午 9 點至晚上 11 點可接待訪客
+- **全程陪同**：訪客必須由宿主居民全程陪同
+- **登記要求**：進入和離開宿舍時，**必須在服務櫃檯（Service Counter）登記訪客資訊**
+- **身份驗證**：訪客可能需要出示 HKUST 學生證以供身份核實
+- **禁止過夜**：未經舍監事先批准，訪客不得過夜留宿
+
+如果您需要接待過夜訪客，則需另行申請 **Guest Pass（訪客通行證）**，費用為每晚 HK$20，並需提前在線上系統購買，且訪客必須為同性別的 HKUST 全職本科生。
+
+⚠️ **提醒**：
+- 違反訪客規定（如未登記或過夜留宿）可能面臨 HK$500 罰款及其他紀律處分
+- 每間房間每晚最多","1. User asked: 不同宿舍楼之间学习氛围差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，不同宿舍樓之間的學習氛圍確實存在差異，主要體現在以下幾個方面： ## 各宿舍學習環境特點 ## 詳細分析 **H...
+2. User asked: 退宿手续在哪里办理 | Assistant replied: 退宿手續需要在您所住宿舍的 **宿舍辦公室（Hall Office）或管理處（Management Office）** 親自辦理 。 ##...",,40,20,20,10,10,100,无,无,无
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",宿舍申请结果多久能知道,"抱歉，目前知識庫中沒有關於宿舍申請結果公佈時間的具體資訊。
+
+宿舍申請結果的通知時間通常會由 **Student Housing and Residential Life Office (SHRLO)** 透過官方電子郵件通知申請者。建議您：
+
+- 留意 SHRLO 發送的官方郵件通知
+- 定期查看申請時填寫的電郵信箱
+- 如有疑問，可直接聯絡 Student Housing Office 查詢最新時間安排
+
+**聯絡方式：**
+- 電郵：shro@ust.hk
+- 辦公室地點：學生事務處轄下宿舍及住宿生活組
+
+由於申請結果公佈日期可能因年度而異，以 SHRLO 官方通知為準最為可靠。","1. User asked: 不同宿舍楼之间学习氛围差别明显吗 | Assistant replied: 根據知識庫中的宿舍評價資料，不同宿舍樓之間的學習氛圍確實存在差異，主要體現在以下幾個方面： ## 各宿舍學習環境特點 ## 詳細分析 **H...
+2. User asked: 退宿手续在哪里办理 | Assistant replied: 退宿手續需要在您所住宿舍的 **宿舍辦公室（Hall Office）或管理處（Management Office）** 親自辦理 。 ##...
+3. User asked: 访客白天来宿舍需要登记吗 | Assistant replied: 是的，**白天來訪的訪客也需要登記**。 根據宿舍安全規定，白天訪客的主要要求如下： - **訪客時間**：上午 9 點至晚上 11 點可接...",The student is casually gathering information without expressing strong personal preferences about dormitory living. No strong hidden preferences identified yet.,35,20,20,10,10,95,邮箱笔误,"{""事实准确性"":{""核心数据准确性"":{""得分"":20,""标准分值"":25,""扣分原因"":""笔误:Bot提供SHRLO邮箱shro@ust.hk错误,知识库中正确邮箱为shrloinfo@ust.hk,属轻微错误(-5分)""},""无幻觉与虚假信息"":{""得分"":10,""标准分值"":10,""扣分原因"":""无""},""政策规则表述准确性"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""}},""个性化适配能力"":{""用户身份与预算适配"":{""得分"":12,""标准分值"":12,""扣分原因"":""无""},""用户偏好适配"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""},""历史对话上下文承接"":{""得分"":3,""标准分值"":3,""扣分原因"":""无""}},""问题解决与任务完成度"":{""提问点全覆盖"":{""得分"":15,""标准分值"":15,""扣分原因"":""无""},""核心诉求解决效果"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""}},""合规性与边界控制"":{""无关问题拒绝能力"":{""得分"":6,""标准分值"":6,""扣分原因"":""无""},""合规内容管控"":{""得分"":4,""标准分值"":4,""扣分原因"":""无""}},""回答规范性与可用性"":{""Markdown格式规范性"":{""得分"":6,""标准分值"":6,""扣分原因"":""无""},""结构清晰度与可读性"":{""得分"":4,""标准分值"":4,""扣分原因"":""无""}}}",宿舍申请结果公布具体时间
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",各宿舍楼公共区域的座位数量差别大吗,"抱歉，目前知識庫中**沒有各宿舍公共區域座位數量的具體數據**。
+
+從現有資料中，僅能找到以下有限資訊：
+
+- **Hall IX**：根據住宿體驗評價，Common Room 不算特別大，供 5–6 個人活動比較合適 。
+
+其他宿舍（Hall I–VIII、Hall X–XIII、JCH）的公共休息室、學習區或茶水間的座位數量，知識庫中暫無記錄。
+
+---
+
+由於您提到偏好**安靜、設施完善、便利**的宿舍，且需要**高速網絡和護眼照明**，建議您：
+
+1. **聯絡 Student Housing Office** 查詢各宿舍公共區域的詳細設施配置，包括座位數量、網絡速度、照明設備等。
+2. **參考宿舍開放日或實地參觀**：親身查看公共區域的環境和設施，更能判斷是否符合您的需求。
+3. **諮詢現住宿生**：透過 HKUST 學生社群或論壇，了解各宿舍公共區域的實際使用體驗。
+
+---
+
+⚠️ **提醒**：您作為**在學非本地生**，有機會在 **Hall VII–XIII** 被分配到 **Single Room**，但房型由 SHRLO 系統隨機分配，無法自行指定。Single Room 的費用需查閱最新費用矩陣，建議留意 SHRLO 官方郵件通知。","1. User asked: 退宿手续在哪里办理 | Assistant replied: 退宿手續需要在您所住宿舍的 **宿舍辦公室（Hall Office）或管理處（Management Office）** 親自辦理 。 ##...
+2. User asked: 访客白天来宿舍需要登记吗 | Assistant replied: 是的，**白天來訪的訪客也需要登記**。 根據宿舍安全規定，白天訪客的主要要求如下： - **訪客時間**：上午 9 點至晚上 11 點可接...
+3. User asked: 宿舍申请结果多久能知道 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍申請結果公佈時間的具體資訊。 宿舍申請結果的通知時間通常會由 **Student Housing and Re...",The student is casually gathering information without expressing strong personal preferences about dormitory living. No strong hidden preferences identified yet.,40,20,20,10,10,100,无,无,各宿舍公共区域座位数量
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",退宿时房间要恢复成什么状态,"根據現有知識庫資料，關於退宿時房間狀態的要求如下：
+
+## 退宿基本程序
+
+退宿時您必須：
+- **親身前往**所住宿舍的舍堂辦公室或管理處
+- **歸還房間鑰匙/門卡及其卡套**
+- **簽署退宿記錄**
+
+若未簽署退宿記錄或未歸還鑰匙，將被視為尚未退宿，並需繳付逾期退宿罰款。
+
+## 房間狀態要求
+
+知識庫中明確提到：
+
+- **個人物品清理**：若未能在最後退宿日期前騰空房間，宿舍管理員將清理房內所有物品，且大學及宿舍管理處對由此產生的任何損失或損壞**不承擔責任**
+- **逾期罰款**：未按時退宿者需繳付每晚 HK$100 的固定罰款，另加按日計算的宿舍費用
+- **鑰匙遺失費用**：遺失鑰匙每把收費 HK$100，卡套每個收費 HK$10
+
+## 重要提醒
+
+⚠️ **退宿截止時間**：中午 12 時正
+
+⚠️ **房間清潔與損壞**：雖然知識庫未詳細列明房間需恢復的具體清潔標準，但建議您：
+- 清理所有個人物品和垃圾
+- 保持房間基本整潔
+- 如有任何房間損壞，應在退宿前透過宿舍辦公室申報維修
+
+由於知識庫中沒有關於房間驗收標準、押金扣除細則等詳細資訊，建議您直接聯繫 **Student Housing and Residential Life Office (SHRLO)** 或所住宿舍的辦公室，查詢具體的房間檢查標準和退宿要求。","1. User asked: 访客白天来宿舍需要登记吗 | Assistant replied: 是的，**白天來訪的訪客也需要登記**。 根據宿舍安全規定，白天訪客的主要要求如下： - **訪客時間**：上午 9 點至晚上 11 點可接...
+2. User asked: 宿舍申请结果多久能知道 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍申請結果公佈時間的具體資訊。 宿舍申請結果的通知時間通常會由 **Student Housing and Re...
+3. User asked: 各宿舍楼公共区域的座位数量差别大吗 | Assistant replied: 抱歉，目前知識庫中**沒有各宿舍公共區域座位數量的具體數據**。 從現有資料中，僅能找到以下有限資訊： - **Hall IX**：根據住宿...",The student is casually gathering information without expressing strong personal preferences about dormitory living. No strong hidden preferences identified yet.,40,20,20,10,10,100,无,无,房间验收清洁标准、押金扣除细则
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",入住当天需要带什么证件,"根據知識庫資料，入住當天您需要親自前往所獲分配宿舍的舍堂辦公室或管理處辦理入住手續，並攜帶以下證件：
+
+- **學生證**（Student ID）
+- **或** 預先登記確認電郵的電子版本（softcopy of the preregistration confirmation email）
+- **附有照片的身份證明文件**（例如：護照）
+
+**重要注意事項：**
+- 必須**本人親自辦理**入住，不可由他人代辦
+- 最早入住時間為獲編配住宿期首日下午 2 時後，提早入住申請將不獲受理
+- 完成入住手續後，您將獲發房間卡／鑰匙，並會收到確認電郵至您的 HKUST 電郵帳戶
+- 入住後請務必在 **7 天內** 檢查房間內所有傢俬、設備及物品的狀況，並透過確認電郵中的連結或房間卡套內的二維碼存取物品清單（Inventory List），如有損壞需立即向舍堂職員報告，否則將被視為物品狀況良好，您需承擔相關責任
+
+建議您提前完成網上住宿登記（Hall Resident Registration），以確保入住流程順利。","1. User asked: 宿舍申请结果多久能知道 | Assistant replied: 抱歉，目前知識庫中沒有關於宿舍申請結果公佈時間的具體資訊。 宿舍申請結果的通知時間通常會由 **Student Housing and Re...
+2. User asked: 各宿舍楼公共区域的座位数量差别大吗 | Assistant replied: 抱歉，目前知識庫中**沒有各宿舍公共區域座位數量的具體數據**。 從現有資料中，僅能找到以下有限資訊： - **Hall IX**：根據住宿...
+3. User asked: 退宿时房间要恢复成什么状态 | Assistant replied: 根據現有知識庫資料，關於退宿時房間狀態的要求如下： ## 退宿基本程序 退宿時您必須： - **親身前往**所住宿舍的舍堂辦公室或管理處 -...","The student is focused on practical logistics and procedural details rather than expressing any social or lifestyle preferences about dormitory living.  
+No strong hidden preferences identified yet.",40,20,20,10,10,100,无,无,无
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",访客最晚要几点走 一次能带几个朋友来 他们能用公共洗衣机和厨房吗,"根據知識庫資料，關於宿舍訪客政策的規定如下：
+
+## 訪客過夜規定（Guest Pass Scheme）
+
+**適用範圍**：Hall I 至 Hall IX（2025年8月28日至2026年6月1日期間）
+
+### 時間限制
+- **過夜定義**：下午 2 點至次日上午 12 點（noon）
+- **登記截止**：訪客與宿主必須於**晚上 11 點前**前往宿舍櫃檯核實身份並出示確認郵件，否則訪客不得進入宿舍
+- **購買截止**：申請截止時間為訪客入住當晚的**晚上 11 點**
+
+### 人數限制
+- **每位宿主**：每晚最多接待 **1 位訪客**
+- **每間房間**：每晚最多 **1 位訪客**
+- **每棟宿舍**：每晚訪客總數上限為 **50 人**（先到先得）
+
+### 訪客資格
+- 必須為香港科技大學**全職註冊本科生**
+- 必須與宿主**同性別**
+- 每位訪客每 30 天內最多可過夜 **15 晚**
+
+### 費用
+- 每位訪客每晚 **HK$20**
+
+### 公共設施使用（洗衣機、廚房等）
+知識庫中**未明確說明**訪客是否可以使用公共洗衣房、廚房等設施。建議您：
+- 直接向所住宿舍的舍堂辦公室查詢
+- 或參考宿舍的具體住戶手冊
+
+---
+
+## 重要提醒
+
+1. **提前購買**：訪客通行證可提前 7 天購買（凌晨 12 點起），建議尽早購買以免額滿
+2. **確認郵件**：購買成功後，宿主、室友及訪客均會收到確認郵件，宿主須立即確認收到
+3. **身份核實**：宿主與訪客須於晚上 11 點前共同前往宿舍櫃檯出示確認郵件並核實身份
+4. **室友同意**：宿主必須獲得室友同意方可接待訪客
+
+---
+
+**注意**：以上政策適用於 Hall I 至 Hall IX。如果您獲分配至 Hall X 至 Hall XIII 或 JCH，建議直接聯繫 Student Housing Office 查詢該宿舍的訪客政策。","1. User asked: 各宿舍楼公共区域的座位数量差别大吗 | Assistant replied: 抱歉，目前知識庫中**沒有各宿舍公共區域座位數量的具體數據**。 從現有資料中，僅能找到以下有限資訊： - **Hall IX**：根據住宿...
+2. User asked: 退宿时房间要恢复成什么状态 | Assistant replied: 根據現有知識庫資料，關於退宿時房間狀態的要求如下： ## 退宿基本程序 退宿時您必須： - **親身前往**所住宿舍的舍堂辦公室或管理處 -...
+3. User asked: 入住当天需要带什么证件 | Assistant replied: 根據知識庫資料，入住當天您需要親自前往所獲分配宿舍的舍堂辦公室或管理處辦理入住手續，並攜帶以下證件： - **學生證**（Student I...","The student is focused on practical logistics and procedural details rather than expressing any social or lifestyle preferences about dormitory living.  
+No strong hidden preferences identified yet.",40,20,20,10,10,100,无,无,访客是否可使用公共洗衣房、厨房等设施
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",SHRLO办公室在哪个楼 上班时间到几点 邮件回复一般要多久,"根據知識庫資料，以下是 SHRLO 辦公室的位置、上班時間及聯絡資訊：
+
+## SHRLO 辦公室位置
+**Student Housing and Residential Life Office (SHRLO)**  
+地址：香港清水灣香港科技大學 **UG Hall II 地下 (G/F, UG Hall II)**
+
+## 聯絡方式
+| 查詢類型 | 電郵地址 |
+|----------|----------|
+| 一般查詢 | shrloinfo@ust.hk |
+| 本科生住宿查詢 | ughousing@ust.hk |
+| 研究生住宿查詢 | pghousing@ust.hk |
+| 校外住宿查詢 | offcamphouse@ust.hk |
+
+**電話**：(852) 2358-6664  
+**傳真**：(852) 2719-5455
+
+## 辦公時間
+根據本科生入住手續的資料，各宿舍辦公室（包括 SHRLO）的開放時間如下：
+- **星期一至日**：08:45 - 19:00 及 19:30 - 22:00
+
+## 電郵回覆時間
+知識庫中**未提及** SHRLO 電郵回覆的具體時間。一般建議您：
+- 發送電郵至對應的查詢電郵地址（本科生請使用 ughousing@ust.hk 或 shrloinfo@ust.hk）
+- 如屬緊急事項，可致電 (852) 2358-6664 查詢
+- 宿舍申請截止日期等重要資訊，請密切留意 SHRLO 發送至您 HKUST 電郵的官方通知，以免遺漏
+
+## 給您的額外建議
+作為在學非本地生，如果您需要與導師溝通且希望靠近研究生樓，建議您：
+- **優先考慮 Hall X–XIII (i-Village)**：這些是新宿舍，靠近研究生宿舍區（如 Global Graduate Tower）
+- **Hall VII–IX**：位於校園中部，交通便利，設施完善
+- 所有宿舍均提供基本網絡設施，如需高速網絡或特殊照明設備，建議入住後向宿舍辦公室查詢升級選項
+
+⚠️ **提醒**：宿舍房型由 SHRLO 系統隨機分配，學生無法自行指定。您只能選擇最多 3 個宿舍進行優先排序投遞。如有特殊需求（如醫療原因需要單人房），建議提早電郵 SHRLO 說明情況。","1. User asked: 退宿时房间要恢复成什么状态 | Assistant replied: 根據現有知識庫資料，關於退宿時房間狀態的要求如下： ## 退宿基本程序 退宿時您必須： - **親身前往**所住宿舍的舍堂辦公室或管理處 -...
+2. User asked: 入住当天需要带什么证件 | Assistant replied: 根據知識庫資料，入住當天您需要親自前往所獲分配宿舍的舍堂辦公室或管理處辦理入住手續，並攜帶以下證件： - **學生證**（Student I...
+3. User asked: 访客最晚要几点走 一次能带几个朋友来 他们能用公共洗衣机和厨房吗 | Assistant replied: 根據知識庫資料，關於宿舍訪客政策的規定如下： ## 訪客過夜規定（Guest Pass Scheme） **適用範圍**：Hall I 至...","The student is focused on practical logistics and procedural details rather than expressing any social or lifestyle preferences about dormitory living.  
+No strong hidden preferences identified yet.",40,20,20,10,10,100,无,无,SHRLO邮件回复时间
+final_test_9@gmail.com,"{'gender': 'Female', 'identity': 'Continuing non-local undergraduate', 'priorities': ['Quiet', 'Facilities', 'Convenience'], 'room_types': ['Single Room'], 'budget_range': 'HK$ 26,000 - 38,000', 'additional_info': '需要高速网络和护眼照明设备，靠近研究生楼以便与导师沟通。'}",住宿费一年大概多少 费用调整会提前通知吗 有特殊情况能申请减免吗,"根據知識庫資料，以下是關於在學非本地本科生宿舍費用、費用調整及減免政策的資訊：
+
+## 在學非本地生宿舍費用（按學年收取）
+
+作為在學非本地生，您有機會被分配到 Single Room 或 Double Room（視乎宿舍）。以下是各宿舍的費用：
+
+| 宿舍名稱 | 單人房 (HK$) | 雙人房 (HK$) | 是否符合預算 (HK$ 26,000-38,000) |
+|----------|-------------|-------------|----------------------------------|
+| Hall I | ❌ 不提供 | $24,464 | ✅ 符合 |
+| Hall II | ❌ 不提供 | $24,464 | ✅ 符合 |
+| Hall III | ❌ 不提供 | $24,464 | ✅ 符合 |
+| Hall IV | ❌ 不提供 | $24,464 | ✅ 符合 |
+| Hall V | ❌ 不提供 | ❌ 不提供 | N/A |
+| Hall VI | ❌ 不提供 | $24,464 | ✅ 符合 |
+| Hall VII | $44,202 | $30,024 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall VIII | $44,480 | $30,024 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall IX | $44,480 | $30,024 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall X | $46,982 | $31,692 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall XI | $46,982 | $31,692 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall XII | $46,982 | $31,692 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| Hall XIII | $46,982 | $31,692 | ❌ 單人房超出 / ✅ 雙人房符合 |
+| JCH | ❌ 不提供 | $32,526 | ✅ 符合 |
+
+**重要提醒**：
+- 您的預算為 HK$ 26,000 - 38,000，所有 Single Room 的費用（HK$ 44,202 - 46,982）均超出預算。
+- Double Room 的費用介乎 HK$ 24,464 - 32,526，全部符合您的預算。
+- 房型由 SHRLO 系統隨機分配，學生無法自行選擇。如果您優先投遞 Hall VII–XIII，有機會被分配到 Single Room 或 Double Room，但具體房型無法保證。
+
+## 費用調整通知
+
+關於宿舍費用調整，知識庫中未提供具體的調整通知政策。一般來說，宿舍費用會按學年調整，建議您留意 SHRLO 發出的官方電郵通知，以獲取最新的費用資訊及調整詳情。
+
+## 特殊情況減免申請
+
+知識庫中目前沒有關於宿舍費用減免政策的詳細資訊。如有特殊經濟困難或其他特殊情況需要申請費用減免，建議您直接聯絡 **Student Housing and Residential Life Office (SHRLO)** 查詢具體的申請程序及資格要求。
+
+**聯絡方式**：
+- 電郵：shrlo@ust.hk
+- 辦公室位置：請參考之前提供的 SHRLO 辦公室資訊
+
+⚠️ **提醒**：宿舍費用按學年收取（通常為 9 月至次年 6 月，共 9 個月），空調費用可能另計。建議您在申請前確認最新的費用詳情及繳費截止日期。","1. User asked: 入住当天需要带什么证件 | Assistant replied: 根據知識庫資料，入住當天您需要親自前往所獲分配宿舍的舍堂辦公室或管理處辦理入住手續，並攜帶以下證件： - **學生證**（Student I...
+2. User asked: 访客最晚要几点走 一次能带几个朋友来 他们能用公共洗衣机和厨房吗 | Assistant replied: 根據知識庫資料，關於宿舍訪客政策的規定如下： ## 訪客過夜規定（Guest Pass Scheme） **適用範圍**：Hall I 至...
+3. User asked: SHRLO办公室在哪个楼 上班时间到几点 邮件回复一般要多久 | Assistant replied: 根據知識庫資料，以下是 SHRLO 辦公室的位置、上班時間及聯絡資訊： ## SHRLO 辦公室位置 **Student Housing a...","The student asks detailed logistical questions about guest policies and office hours, showing they plan to host visitors and need clear rules, but no strong hidden preferences about dormitory living are revealed.",35,20,20,10,10,95,邮箱笔误,"{""事实准确性"":{""核心数据准确性"":{""得分"":20,""标准分值"":25,""扣分原因"":""笔误:Bot引用SHRLO邮箱shrlo@ust.hk错误,知识库中正确邮箱为shrloinfo@ust.hk,属轻微错误(-5分)""},""无幻觉与虚假信息"":{""得分"":10,""标准分值"":10,""扣分原因"":""无""},""政策规则表述准确性"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""}},""个性化适配能力"":{""用户身份与预算适配"":{""得分"":12,""标准分值"":12,""扣分原因"":""无""},""用户偏好适配"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""},""历史对话上下文承接"":{""得分"":3,""标准分值"":3,""扣分原因"":""无""}},""问题解决与任务完成度"":{""提问点全覆盖"":{""得分"":15,""标准分值"":15,""扣分原因"":""无""},""核心诉求解决效果"":{""得分"":5,""标准分值"":5,""扣分原因"":""无""}},""合规性与边界控制"":{""无关问题拒绝能力"":{""得分"":6,""标准分值"":6,""扣分原因"":""无""},""合规内容管控"":{""得分"":4,""标准分值"":4,""扣分原因"":""无""}},""回答规范性与可用性"":{""Markdown格式规范性"":{""得分"":6,""标准分值"":6,""扣分原因"":""无""},""结构清晰度与可读性"":{""得分"":4,""标准分值"":4,""扣分原因"":""无""}}}",费用调整通知政策、特殊情况费用减免政策
